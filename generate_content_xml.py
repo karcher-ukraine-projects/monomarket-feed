@@ -12,16 +12,14 @@ PASSWORD = os.environ.get("KARCHER_PASS")
 LOCAL_XML = 'feed.xml'
 
 def download_latest_feed():
-    print("📥 Завантажуємо свіжий фід для XML контенту...")
+    print("📥 Завантажуємо свіжий фід...")
     try:
         response = requests.get(FEED_URL, auth=(USERNAME, PASSWORD), verify=False)
         response.raise_for_status()
         with open(LOCAL_XML, 'wb') as f:
             f.write(response.content)
-        print("✅ Фід завантажено!")
         return True
-    except Exception as e:
-        print(f"❌ Помилка завантаження: {e}")
+    except:
         return False
 
 def clean_cdata(text):
@@ -30,61 +28,76 @@ def clean_cdata(text):
 
 def format_description_html(raw_text):
     text = clean_cdata(raw_text)
-    parts = re.split(r'\. (?=[A-ZА-ЯІ])', text)
-    if not parts: return ""
     
-    html = f"<h5>Опис</h5>\n<p>{parts[0].strip()}.</p>\n<br>\n"
-    if len(parts) > 1:
-        html += "<h5>Характеристики та особливості</h5>\n<ul>\n"
-        for part in parts[1:]:
+    # Жорстко вирізаємо з тексту все, що схоже на вагу та розміри
+    text = re.sub(r'(?i)(?:вага|вес)[\s:.-]*\d+[.,]?\d*\s*(?:кг|г)\b', '', text)
+    text = re.sub(r'(?i)(?:розмір|розміри|габарити|размер)[\s:.-]*\d+[.,]?\d*\s*[xхХ*×]\s*\d+[.,]?\d*(?:\s*[xхХ*×]\s*\d+[.,]?\d*)?\s*(?:см|мм|м)\b', '', text)
+    
+    # Розбиваємо текст на речення
+    parts = re.split(r'\. (?=[A-ZА-ЯІЄЇҐ])', text)
+    clean_parts = [p.strip() for p in parts if p.strip() and len(p) > 2]
+    
+    if not clean_parts: return ""
+    
+    html = f"<h5>Опис</h5>\n<p>{clean_parts[0].rstrip('.')}.</p>\n"
+    if len(clean_parts) > 1:
+        html += "<br>\n<h5>Характеристики та особливості</h5>\n<ul>\n"
+        for part in clean_parts[1:]:
             content = part.strip().rstrip('.')
             if content:
                 html += f"  <li>{content}</li>\n"
         html += "</ul>"
     return html
 
-def parse_dimensions_and_weight(text):
-    """Функція для вилучення габаритів та ваги з тексту опису"""
+def parse_dimensions_and_weight(text, entry, ns):
     weight, length, width, height = "", "", "", ""
-    if not text: return weight, length, width, height
     
-    # Шукаємо вагу (напр. "Вага: 650 г" або "Вага: 1.5 кг")
-    w_match = re.search(r'Вага.*?([\d\.,]+)\s*(кг|г)', text, re.IGNORECASE)
-    if w_match:
-        try:
-            val = float(w_match.group(1).replace(',', '.'))
-            if w_match.group(2).lower() == 'г':
-                val = val / 1000 # Переводимо в кг для Мономаркету
-            weight = str(round(val, 3))
-        except: pass
-        
-    # Шукаємо розміри (напр. "Розмір: 46 х 33 х 21 см")
-    d_match = re.search(r'(?:Розмір|Габарити).*?([\d\.,]+)\s*[xхХ*]\s*([\d\.,]+)\s*[xхХ*]\s*([\d\.,]+)\s*(см|мм|м)', text, re.IGNORECASE)
-    if d_match:
-        try:
-            v1 = float(d_match.group(1).replace(',', '.'))
-            v2 = float(d_match.group(2).replace(',', '.'))
-            v3 = float(d_match.group(3).replace(',', '.'))
-            unit = d_match.group(4).lower()
-            
-            # Переводимо все в сантиметри
-            if unit == 'мм':
-                v1, v2, v3 = v1/10, v2/10, v3/10
-            elif unit == 'м':
-                v1, v2, v3 = v1*100, v2*100, v3*100
+    # 1. Спочатку шукаємо в стандартних тегах (якщо вони є)
+    def find_tag(tag):
+        el = entry.find(f'g:{tag}', ns)
+        return el.text if el is not None else ""
+
+    g_weight = find_tag('shipping_weight') or find_tag('product_weight')
+    if g_weight:
+        w_m = re.search(r'([\d\.,]+)', g_weight)
+        if w_m: weight = w_m.group(1).replace(',', '.')
+
+    # 2. Якщо тегів немає, "вигризаємо" числа прямо з тексту опису
+    if text:
+        if not weight:
+            w_match = re.search(r'(\d+[.,]?\d*)\s*(кг|г)\b', text, re.IGNORECASE)
+            if w_match:
+                try:
+                    val = float(w_match.group(1).replace(',', '.'))
+                    if w_match.group(2).lower() == 'г': val = val / 1000
+                    weight = str(round(val, 3))
+                except: pass
                 
-            length = str(round(v1, 2))
-            width = str(round(v2, 2))
-            height = str(round(v3, 2))
-        except: pass
-        
+        d_match = re.search(r'(\d+[.,]?\d*)\s*[xхХ*×]\s*(\d+[.,]?\d*)(?:\s*[xхХ*×]\s*(\d+[.,]?\d*))?\s*(см|мм|м)\b', text, re.IGNORECASE)
+        if d_match:
+            try:
+                v1 = float(d_match.group(1).replace(',', '.'))
+                v2 = float(d_match.group(2).replace(',', '.'))
+                v3 = float(d_match.group(3).replace(',', '.')) if d_match.group(3) else None
+                unit = d_match.group(4).lower()
+                
+                if unit == 'мм':
+                    v1, v2 = v1/10, v2/10
+                    if v3 is not None: v3 = v3/10
+                elif unit == 'м':
+                    v1, v2 = v1*100, v2*100
+                    if v3 is not None: v3 = v3*100
+                    
+                length = str(round(v1, 2))
+                width = str(round(v2, 2))
+                if v3 is not None: height = str(round(v3, 2))
+            except: pass
+            
     return weight, length, width, height
 
 def generate_mono_content_xml():
     print("📦 Формуємо ідеальний контентний фід...")
-    if not os.path.exists(LOCAL_XML):
-        print("❌ Файл feed.xml не знайдено!")
-        return
+    if not os.path.exists(LOCAL_XML): return
 
     tree = ET.parse(LOCAL_XML)
     root = tree.getroot()
@@ -103,8 +116,7 @@ def generate_mono_content_xml():
             return el.text if el is not None else ""
 
         avail = (find_v('availability') or "").lower()
-        if "in stock" not in avail:
-            continue
+        if "in stock" not in avail: continue
 
         offer = ET.SubElement(offers, "offer")
         item_id = find_v('id')
@@ -112,7 +124,6 @@ def generate_mono_content_xml():
         ET.SubElement(offer, "code").text = item_id
         ET.SubElement(offer, "vendor_code").text = item_id
         
-        # ВИПРАВЛЕННЯ ДУБЛІКАТІВ: Додаємо артикул у назву
         title = clean_cdata(find_v('title'))
         if item_id not in title:
             title = f"{title} ({item_id})"
@@ -128,9 +139,9 @@ def generate_mono_content_xml():
         ET.SubElement(offer, "brand").text = find_v('brand') or "Kärcher"
         ET.SubElement(offer, "availability").text = "в наявності"
         
-        # ВИПРАВЛЕННЯ ВГХ: витягуємо габарити і створюємо правильні теги
+        # ВИКЛИК НОВОЇ БРОНЕБІЙНОЇ ФУНКЦІЇ
         desc_text = find_v('description')
-        w_val, l_val, w2_val, h_val = parse_dimensions_and_weight(desc_text)
+        w_val, l_val, w2_val, h_val = parse_dimensions_and_weight(desc_text, entry, ns)
         
         if w_val: ET.SubElement(offer, "weight").text = w_val
         if h_val: ET.SubElement(offer, "height").text = h_val
@@ -152,7 +163,6 @@ def generate_mono_content_xml():
     final_xml = '<?xml version="1.0" encoding="UTF-8"?>\n' + xml_str
     with open('monomarket_content.xml', "w", encoding="utf-8") as f:
         f.write(final_xml)
-    print(f"✅ Файл monomarket_content.xml створено!")
 
 if __name__ == '__main__':
     if download_latest_feed():
