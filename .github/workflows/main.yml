@@ -40,3 +40,4 @@ jobs:
           git add monomarket_offers.json monomarket_content.xml feed.xml
           git commit -m "Auto-update feeds from SAP" || echo "No changes to commit"
           git push
+          
