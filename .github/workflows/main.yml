@@ -1,0 +1,39 @@
+name: Update Monomarket Feeds
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Запуск кожні 30 хвилин
+  workflow_dispatch: # Дозволяє запускати вручну кнопкою
+
+jobs:
+  update-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run JSON Offers Script (and download feed)
+        env:
+          KARCHER_USER: ${{ secrets.KARCHER_USER }}
+          KARCHER_PASS: ${{ secrets.KARCHER_PASS }}
+        run: python generate_offers_json.py
+
+      - name: Run XML Content Script
+        run: python generate_content_xml.py
+
+      - name: Commit and push generated files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add monomarket_offers.json monomarket_content.xml feed.xml
+          git commit -m "Auto-update feeds from SAP" || echo "No changes to commit"
+          git push
