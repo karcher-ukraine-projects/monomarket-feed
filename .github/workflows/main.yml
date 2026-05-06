@@ -28,6 +28,9 @@ jobs:
         run: python generate_offers_json.py
 
       - name: Run XML Content Script
+        env:
+          KARCHER_USER: ${{ secrets.KARCHER_USER }}
+          KARCHER_PASS: ${{ secrets.KARCHER_PASS }}
         run: python generate_content_xml.py
 
       - name: Commit and push generated files
