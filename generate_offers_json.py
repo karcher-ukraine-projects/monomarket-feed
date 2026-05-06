@@ -4,13 +4,13 @@ from datetime import datetime, timezone
 import re
 import requests
 import urllib3
-urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 import os
 
-# Налаштування доступу до SAP Karcher
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+
 FEED_URL = "https://globalweb-webservice.app.kaercher.com/api/v2/shared/datafeed/2/07c2ca4b/google+uk-UA/uk-UA_google_shopping_feed.xml"
-USERNAME = os.environ.get("KARCHER_USER")  # Тепер беремо логін із секретів
-PASSWORD = os.environ.get("KARCHER_PASS")  # Тепер беремо пароль із секретів
+USERNAME = os.environ.get("KARCHER_USER")
+PASSWORD = os.environ.get("KARCHER_PASS")
 
 LOCAL_XML = 'feed.xml'
 OUTPUT_JSON = 'monomarket_offers.json'
@@ -19,7 +19,7 @@ def download_latest_feed():
     print("📥 Завантажуємо свіжий фід із серверів Karcher...")
     try:
         response = requests.get(FEED_URL, auth=(USERNAME, PASSWORD), verify=False)
-        response.raise_for_status() # Перевіряє, чи правильний логін/пароль
+        response.raise_for_status() 
         
         with open(LOCAL_XML, 'wb') as f:
             f.write(response.content)
@@ -31,11 +31,9 @@ def download_latest_feed():
 
 def convert_to_offers_json():
     print(f"🔄 Починаємо генерацію JSON-фіду пропозицій...")
-    
     try:
         tree = ET.parse(LOCAL_XML)
         root = tree.getroot()
-        
         ns = {'g': 'http://base.google.com/ns/1.0', 'atom': 'http://www.w3.org/2005/Atom'}
         entries = root.findall('.//atom:entry', ns) or root.findall('.//entry')
 
@@ -70,7 +68,7 @@ def convert_to_offers_json():
                     {"method": "nova-post:postomat", "price": 0},
                     {"method": "courier:nova-post", "price": 0}
                 ],
-                "days_to_dispatch": 0,
+                "days_to_dispatch": 1,  # Внесено зміну згідно з вимогами Мономаркету
                 "manufacture": None
             }
             product_list.append(item)
@@ -90,6 +88,5 @@ def convert_to_offers_json():
         print(f"❌ Виникла помилка при обробці: {e}")
 
 if __name__ == "__main__":
-    # Спочатку качаємо свіжий фід, а якщо успішно - генеруємо JSON
     if download_latest_feed():
         convert_to_offers_json()
