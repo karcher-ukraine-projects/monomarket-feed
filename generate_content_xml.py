@@ -3,6 +3,7 @@ import re
 import requests
 import urllib3
 import os
+import csv
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -10,6 +11,7 @@ FEED_URL = "https://globalweb-webservice.app.kaercher.com/api/v2/shared/datafeed
 USERNAME = os.environ.get("KARCHER_USER")
 PASSWORD = os.environ.get("KARCHER_PASS")
 LOCAL_XML = 'feed.xml'
+CSV_FILE = 'enrichment.csv'
 
 def download_latest_feed():
     print("📥 Завантажуємо свіжий фід...")
@@ -28,31 +30,75 @@ def clean_cdata(text):
 
 def format_description_html(raw_text):
     text = clean_cdata(raw_text)
-    
-    # Жорстко вирізаємо з тексту все, що схоже на вагу та розміри
     text = re.sub(r'(?i)(?:вага|вес)[\s:.-]*\d+[.,]?\d*\s*(?:кг|г)\b', '', text)
     text = re.sub(r'(?i)(?:розмір|розміри|габарити|размер)[\s:.-]*\d+[.,]?\d*\s*[xхХ*×]\s*\d+[.,]?\d*(?:\s*[xхХ*×]\s*\d+[.,]?\d*)?\s*(?:см|мм|м)\b', '', text)
-    
-    # Розбиваємо текст на речення
     parts = re.split(r'\. (?=[A-ZА-ЯІЄЇҐ])', text)
     clean_parts = [p.strip() for p in parts if p.strip() and len(p) > 2]
     
     if not clean_parts: return ""
-    
     html = f"<h5>Опис</h5>\n<p>{clean_parts[0].rstrip('.')}.</p>\n"
     if len(clean_parts) > 1:
         html += "<br>\n<h5>Характеристики та особливості</h5>\n<ul>\n"
         for part in clean_parts[1:]:
             content = part.strip().rstrip('.')
-            if content:
-                html += f"  <li>{content}</li>\n"
+            if content: html += f"  <li>{content}</li>\n"
         html += "</ul>"
     return html
 
-def parse_dimensions_and_weight(text, entry, ns):
+def load_csv_data():
+    """Завантажує дані з CSV файлу і повертає словник за артикулами"""
+    csv_data = {}
+    if not os.path.exists(CSV_FILE):
+        print(f"⚠️ Файл {CSV_FILE} не знайдено, збагачення даних пропущено.")
+        return csv_data
+        
+    print("📊 Зчитуємо дані з таблиці enrichment.csv...")
+    try:
+        with open(CSV_FILE, mode='r', encoding='utf-8-sig') as f:
+            # Excel може зберігати CSV з комами або крапками з комою, пробуємо автоматично визначити
+            sample = f.read(1024)
+            f.seek(0)
+            delimiter = ';' if ';' in sample else ','
+            
+            reader = csv.reader(f, delimiter=delimiter)
+            for row in reader:
+                if len(row) < 11: continue  # Пропускаємо неповні рядки
+                
+                raw_id = row[0]
+                if not raw_id or raw_id.lower() == 'матеріал': continue
+                
+                # Очищаємо ID (0.010-109.0 -> 00101090)
+                clean_id = re.sub(r'\D', '', raw_id)
+                # Якщо ID починається з нулів і обрізався, це ок, бо у фіді вони теж обрізані або співпадуть
+                
+                weight = row[2].replace(',', '.') if row[2] else ""  # Беремо Вага брутто (стовпець C)
+                if not weight and row[1]: weight = row[1].replace(',', '.') # Або нетто (B)
+                if float(weight) == 0.0 if weight.replace('.','',1).isdigit() else True: weight = ""
+                
+                dims = row[8].upper() # Розмір/габарити (стовпець I)
+                barcode = row[10] # EAN/UPC (стовпець K)
+                
+                l, w, h = "", "", ""
+                if dims and 'X' in dims:
+                    parts = dims.split('X')
+                    try:
+                        # Ділимо на 10, щоб перевести міліметри в сантиметри
+                        l = str(round(float(re.sub(r'\D', '', parts[0])) / 10, 2))
+                        if len(parts) > 1: w = str(round(float(re.sub(r'\D', '', parts[1])) / 10, 2))
+                        if len(parts) > 2: h = str(round(float(re.sub(r'\D', '', parts[2])) / 10, 2))
+                    except: pass
+                
+                csv_data[clean_id] = {
+                    'weight': weight, 'length': l, 'width': w, 'height': h, 'barcode': barcode
+                }
+    except Exception as e:
+        print(f"❌ Помилка читання CSV: {e}")
+        
+    return csv_data
+
+def parse_dimensions_from_text(text, entry, ns):
+    """Стара функція резервного парсингу з тексту, якщо в CSV нічого немає"""
     weight, length, width, height = "", "", "", ""
-    
-    # 1. Спочатку шукаємо в стандартних тегах (якщо вони є)
     def find_tag(tag):
         el = entry.find(f'g:{tag}', ns)
         return el.text if el is not None else ""
@@ -62,7 +108,6 @@ def parse_dimensions_and_weight(text, entry, ns):
         w_m = re.search(r'([\d\.,]+)', g_weight)
         if w_m: weight = w_m.group(1).replace(',', '.')
 
-    # 2. Якщо тегів немає, "вигризаємо" числа прямо з тексту опису
     if text:
         if not weight:
             w_match = re.search(r'(\d+[.,]?\d*)\s*(кг|г)\b', text, re.IGNORECASE)
@@ -88,16 +133,16 @@ def parse_dimensions_and_weight(text, entry, ns):
                     v1, v2 = v1*100, v2*100
                     if v3 is not None: v3 = v3*100
                     
-                length = str(round(v1, 2))
-                width = str(round(v2, 2))
+                length, width = str(round(v1, 2)), str(round(v2, 2))
                 if v3 is not None: height = str(round(v3, 2))
             except: pass
-            
     return weight, length, width, height
 
 def generate_mono_content_xml():
     print("📦 Формуємо ідеальний контентний фід...")
     if not os.path.exists(LOCAL_XML): return
+
+    csv_data = load_csv_data() # Завантажуємо таблицю з даними!
 
     tree = ET.parse(LOCAL_XML)
     root = tree.getroot()
@@ -120,16 +165,23 @@ def generate_mono_content_xml():
 
         offer = ET.SubElement(offers, "offer")
         item_id = find_v('id')
+        # Нормалізуємо ID для пошуку в CSV (на випадок якщо у фіді є тире)
+        clean_item_id = re.sub(r'\D', '', item_id)
+        
+        # Витягуємо дані з таблиці, якщо вони є
+        table_info = csv_data.get(clean_item_id, {})
+
         ET.SubElement(offer, "id").text = item_id
         ET.SubElement(offer, "code").text = item_id
         ET.SubElement(offer, "vendor_code").text = item_id
         
         title = clean_cdata(find_v('title'))
-        if item_id not in title:
-            title = f"{title} ({item_id})"
+        if item_id not in title: title = f"{title} ({item_id})"
         ET.SubElement(offer, "title").text = title
         
+        # Штрихкод: Спочатку з фіду, якщо нема - з ТАБЛИЦІ
         barcode = find_v('gtin')
+        if not barcode: barcode = table_info.get('barcode', '')
         ET.SubElement(offer, "barcode").text = barcode if barcode else item_id
         
         full_cat = find_v('custom_label_0') or find_v('product_type')
@@ -139,9 +191,18 @@ def generate_mono_content_xml():
         ET.SubElement(offer, "brand").text = find_v('brand') or "Kärcher"
         ET.SubElement(offer, "availability").text = "в наявності"
         
-        # ВИКЛИК НОВОЇ БРОНЕБІЙНОЇ ФУНКЦІЇ
+        # Габарити: Спочатку з ТАБЛИЦІ, якщо нема - парсимо з тексту
         desc_text = find_v('description')
-        w_val, l_val, w2_val, h_val = parse_dimensions_and_weight(desc_text, entry, ns)
+        w_val = table_info.get('weight', '')
+        l_val = table_info.get('length', '')
+        w2_val = table_info.get('width', '')
+        h_val = table_info.get('height', '')
+
+        # Якщо таблиця порожня, пробуємо резервний метод (з тексту)
+        if not w_val or not l_val:
+            txt_w, txt_l, txt_w2, txt_h = parse_dimensions_from_text(desc_text, entry, ns)
+            if not w_val: w_val = txt_w
+            if not l_val: l_val, w2_val, h_val = txt_l, txt_w2, txt_h
         
         if w_val: ET.SubElement(offer, "weight").text = w_val
         if h_val: ET.SubElement(offer, "height").text = h_val
@@ -163,6 +224,7 @@ def generate_mono_content_xml():
     final_xml = '<?xml version="1.0" encoding="UTF-8"?>\n' + xml_str
     with open('monomarket_content.xml', "w", encoding="utf-8") as f:
         f.write(final_xml)
+    print("✅ Файл monomarket_content.xml створено із заповненими даними з таблиці!")
 
 if __name__ == '__main__':
     if download_latest_feed():
