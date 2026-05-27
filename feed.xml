@@ -928,52 +928,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>10815300</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Миючий пилосос SE 3 Compact]]></g:title>
-                            <g:price>9999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Миючий пилосос Kärcher SE 3 Compact Home поєднує компактний дизайн і потужну технологію глибокого очищення, що дозволяє легко справлятися з забрудненнями на текстильних поверхнях, таких як оббивка меблів, доріжки та невеликі килими. Завдяки компактним розмірам, пилосос не тільки простий у користуванні, але й займає мінімум місця при зберіганні, що дозволяє швидко підготувати його до роботи навіть у разі несподіваних забруднень. Довгий і гнучкий всмоктувальний шланг із вбудованою трубкою для подачі миючого засобу забезпечує зручне очищення важкодоступних місць, а довгий кабель надає повну свободу руху під час прибирання. Практичні аксесуари зберігаються безпосередньо на апараті, що дозволяє завжди мати їх під рукою. Система баків «2 в 1» мінімізує контакт із брудом під час роботи, а функція промивання після використання запобігає розмноженню бактерій і появі неприємних запахів. У комплект входять насадки для м'яких меблів, щілин і засіб для чищення.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/10815300/mainproduct/92624ba8-d580-48ce-afb5-55a84e6cc0f8/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/product/1f42e0a5-c6f7-45c8-a3ef-57e60e3408bc/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/detail/203303/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/detail/5b40f81f-49ce-4e72-99ae-213cb6c73bfb/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/detail/de73e573-24ac-4671-b2a6-064c7f939d3c/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/application/295db743-6de0-4b29-b092-504f1424ed89/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/application/4f83fafc-2036-4b5c-8275-b4a3ea3f5583/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/application/8a980115-0e41-45d0-9ad8-8654fce31d71/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/10815300/application/e8aee054-acbd-4a23-84fe-8a9ff66d0736/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/mijuchi-pilososi/se-3-compact-10815300.html?utm_source=google-feed&utm_medium=free&utm_content=10815300&utm_name=SE%203%20Compact]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/mijuchi-pilososi/se-3-compact-10815300.html?utm_source=google-feed&utm_medium=cpc&utm_content=10815300&utm_name=SE%203%20Compact]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/mijuchi-pilososi/se-3-compact-10815300.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                        
-                                                                            <g:product_type> Home &amp; Garden &gt; Миючі пилососи</g:product_type>
-            <g:google_product_category>616</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4066529001580</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Миючі пилососи</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>10815330</g:id>
             <g:title>
                 <![CDATA[Kärcher - Миючий пилосос SE 3 Compact Floor]]></g:title>
@@ -1065,6 +1019,53 @@
             <g:google_product_category>616</g:google_product_category>
             <g:condition>new</g:condition>
             <g:gtin>4039784917095</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Professional &gt; Апарати для чищення килимів &gt; Професійні миючі пилососи</g:custom_label_0>
+            <g:custom_label_1>machine</g:custom_label_1>
+        </entry>
+            <entry>
+            <g:id>11002400</g:id>
+            <g:title>
+                <![CDATA[Kärcher - Професійний миючий пилосос Puzzi 8/1]]></g:title>
+                            <g:price>26999 UAH</g:price>
+                <g:custom_label_2>normalPrice</g:custom_label_2>
+                        <g:description><![CDATA[Надійний та довговічний миючий пилосос Puzzi 8/1, призначений для очищення м'яких меблів та видалення плям з текстильних поверхонь, вражає чудовими результатами очищення та високою економічністю. Компактний апарат розпилює розчин миючого засобу, який глибоко проникає в структуру текстильного покриття, після чого збирає його разом з відокремленим від волокон брудом. Висока сила всмоктування забезпечує ефективне висихання текстильних поверхонь, що дозволяє швидко їх знову використовувати. Завдяки цьому апарат ідеально підходить для професійного прибирання в готелях та ресторанах, а також для очищення салонів автомобілів. При цьому, коротка насадка для м'яких меблів, яка входить до стандартної комплектації, полегшує прибирання в обмежених та тісних просторових умовах. Завдяки малій вазі та ергономічній ручці для перенесення миючий пилосос дуже зручний у транспортуванні. Додатковий комфорт експлуатації апарату забезпечують великі кнопки, які можна натискати як рукою, так і ногою. Для кращого контролю збору забрудненого розчину кришка апарату та всмоктуюча насадка виготовлені з прозорого матеріалу.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/11002400/mainproduct/196789/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/196768/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/198502/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/198515/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/211112/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/211132/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/211139/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/211172/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11002400/application/216241/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/professional/aparati-dlja-chishchennja-kilimiv/profesiini-mijuchi-pilososi/puzzi-8-1-11002400.html?utm_source=google-feed&utm_medium=free&utm_content=11002400&utm_name=Puzzi%208%2F1]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/professional/aparati-dlja-chishchennja-kilimiv/profesiini-mijuchi-pilososi/puzzi-8-1-11002400.html?utm_source=google-feed&utm_medium=cpc&utm_content=11002400&utm_name=Puzzi%208%2F1]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/aparati-dlja-chishchennja-kilimiv/profesiini-mijuchi-pilososi/puzzi-8-1-11002400.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                                                                    
+                                                                                                                                        
+                                                                            <g:product_type> Professional &gt; Апарати для чищення килимів &gt; Професійні миючі пилососи</g:product_type>
+            <g:google_product_category>616</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>4054278882529</g:gtin>
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Professional &gt; Апарати для чищення килимів &gt; Професійні миючі пилососи</g:custom_label_0>
@@ -1862,6 +1863,51 @@
             <g:google_product_category>619</g:google_product_category>
             <g:condition>new</g:condition>
             <g:gtin>4054278990514</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи</g:custom_label_0>
+            <g:custom_label_1>machine</g:custom_label_1>
+        </entry>
+            <entry>
+            <g:id>11984120</g:id>
+            <g:title>
+                <![CDATA[Kärcher - VCH 4 UVClean]]></g:title>
+                            <g:price>7999 UAH</g:price>
+                <g:sale_price>4999 UAH</g:sale_price>
+                <g:custom_label_2>specialPrice</g:custom_label_2>
+                        <g:description><![CDATA[Чистий і здоровий сон можливий завдяки ручному дезінфікуючому пилососу VCH 4 UVClean. У матрацах, подушках та інших м’яких меблях накопичуються мільйони пилових кліщів і бактерій, які можуть спричиняти алергічні реакції та заважати повноцінному відпочинку, тому обмежуватися лише видимою чистотою недостатньо. Апарат VCH 4 UVClean дозволяє ефективно видаляти як видимі, так і невидимі забруднення, забезпечуючи глибоке очищення матраців і текстильних поверхонь. У його роботі поєднуються три високоефективні технології: інтенсивна вібрація вибивного валика вивільняє з волокон тканини глибоко забиті частинки бруду, лусочки шкіри та пилових кліщів і піднімає їх на поверхню; потужний електродвигун створює сильний потік повітря й надійно збирає всі відокремлені забруднення у контейнер для сміття; вбудоване джерело короткохвильового ультрафіолетового випромінювання нейтралізує до 99,9 % бактерій і кліщів, що знаходяться на поверхні. Така комбінація технологій забезпечує справді глибоке, безпечне та ефективне очищення будь-яких матраців, подушок, м’яких меблів та інших текстильних виробів, створюючи в домі атмосферу свіжості, гігієни та захисту від алергенів.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/11984120/mainproduct/4bf389ca-1020-46e7-bc16-741c863836c6/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/detail/3402e7d2-5752-4a26-8fb6-2de69544f7bf/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/detail/bf61d834-b3d4-4043-8bb5-e1abacd915b8/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/26615743-5bc0-4bae-b705-cefc6a11938b/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/2f1dda53-1946-4134-9554-3be90240ad90/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/583753ae-a734-4f98-aa08-7fd9477b4d5a/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/633a7fa2-5451-41a5-bba8-dbd14563e1d0/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/f576ad72-f16a-451b-9f4e-6f38730109d7/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/pilososi/vch-4-uvclean-11984120.html?utm_source=google-feed&utm_medium=free&utm_content=11984120&utm_name=VCH%204%20UVClean]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/pilososi/vch-4-uvclean-11984120.html?utm_source=google-feed&utm_medium=cpc&utm_content=11984120&utm_name=VCH%204%20UVClean]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/pilososi/vch-4-uvclean-11984120.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                        
+                                                                            <g:product_type> Home &amp; Garden &gt; Пилососи</g:product_type>
+            <g:google_product_category>619</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>4066529180155</g:gtin>
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи</g:custom_label_0>
@@ -3205,48 +3251,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>13674020</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Апарат високого тиску HD 10/25-4 S Classic]]></g:title>
-                            <g:price>91999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Апарат високого тиску без нагрівання води HD 10/25-4 S Classic був розроблений для щоденного використання в важких умовах. Його основна відмінність - надійна конструкція та міцна сталева рама. Налаштування та керування апаратом просте та інтуїтивно зрозуміле, що значно скорочує час на підготовку до роботи. Доступ до всіх важливих частин апарату надзвичайно зручний. Апарат оснащений ергономічним пістолетом високого тиску серії Classic. Він також має швидкодіюче з'єднання преміум-класу EASY!Lock, яке дозволяє міняти аксесуари в п'ять разів швидше, аніж звичайні гвинтові з'єднання, заощаджуючи ваш час. Вбудований водяний фільтр надійно захищає насос високого тиску від частинок бруду та домішок, подовжуючи тим самим його термін служби. Апарат оснащений потужним насосом з кривошипно-шатунним механізмом, в якому використані високоякісні матеріали: головка циліндрів з латуні та поршні з керамічними вставками. При необхідності тиск та продуктивність можна регулювати на насосі. 4-полюсний низькошвидкісний двигун із комбінованою повітряно-водяною системою охолодження забезпечує тривалу безперебійну роботу.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/13674020/mainproduct/201855/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/13674020/detail/201851/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/13674020/detail/201852/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/13674020/detail/201853/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/13674020/application/211521/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/13674020/application/213533/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/aparati-visokogo-tisku/aparati-visokogo-tisku-bez-pidigrivu-vodi/super-klas/hd-10-25-4-s-classic-13674020.html?utm_source=google-feed&utm_medium=free&utm_content=13674020&utm_name=HD%2010%2F25-4%20S%20Classic]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/aparati-visokogo-tisku/aparati-visokogo-tisku-bez-pidigrivu-vodi/super-klas/hd-10-25-4-s-classic-13674020.html?utm_source=google-feed&utm_medium=cpc&utm_content=13674020&utm_name=HD%2010%2F25-4%20S%20Classic]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/aparati-visokogo-tisku/aparati-visokogo-tisku-bez-pidigrivu-vodi/super-klas/hd-10-25-4-s-classic-13674020.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                                                                                                    
-                                                                                                    
-                                        <g:product_type> Professional &gt; Апарати високого тиску &gt; Апарати високого тиску без підігріву води &gt; Супер клас</g:product_type>
-            <g:google_product_category>4973</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4054278904177</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Апарати високого тиску &gt; Апарати високого тиску без підігріву води &gt; Супер клас</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>13679000</g:id>
             <g:title>
                 <![CDATA[Kärcher - Апарат високого тиску HD 6/15-4 M Classic]]></g:title>
@@ -3730,45 +3734,6 @@
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Паропилосос</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>14440010</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Акумуляторна ланцюгова пила CNS 18-30 Battery]]></g:title>
-                            <g:price>9999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Завдяки невеликій вазі та ідеальній довжині шини акумуляторна ланцюгова пила CNS 18-30 Battery від Kärcher ідеально підходить для зручного і універсального використання при догляді за деревами. Висока швидкість ланцюга робить процес різання швидким і легким. Система натягу ланцюга, для якої не потрібні інструменти і автоматичне змащення ланцюга, роблять пилу надзвичайно простою у використанні. Поєднання гальм ланцюгової пили і двухфакторної системи розблокування робить її особливо безпечною. Пристрій, шина, ланцюг, захисний чохол для шини і мастило для ланцюга входять в комплект поставки.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/14440010/mainproduct/128440/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14440010/application/131424/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14440010/application/131427/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14440010/application/131428/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14440010/application/131429/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatorna-lancjugova-pila/cns-18-30-battery-14440010.html?utm_source=google-feed&utm_medium=free&utm_content=14440010&utm_name=CNS%2018-30%20Battery]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatorna-lancjugova-pila/cns-18-30-battery-14440010.html?utm_source=google-feed&utm_medium=cpc&utm_content=14440010&utm_name=CNS%2018-30%20Battery]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatorna-lancjugova-pila/cns-18-30-battery-14440010.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                    
-                                                                            <g:product_type> Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторна ланцюгова пила</g:product_type>
-            <g:google_product_category>3610</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4054278548937</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторна ланцюгова пила</g:custom_label_0>
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
@@ -4943,56 +4908,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>14454500</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Акумуляторний тример LTR 3-18 Dual]]></g:title>
-                            <g:price>6999 UAH</g:price>
-                <g:sale_price>5999 UAH</g:sale_price>
-                <g:custom_label_2>specialPrice</g:custom_label_2>
-                        <g:description><![CDATA[Тример для газону LTR 3-18 із двома акумуляторами є високоефективним та зручним рішенням для ідеального підстригання газонів та їхніх країв. Його потужний 36 В двигун, який живиться від двох 18 В літій-іонних батарей, забезпечує видатну продуктивність. Ергономічно спроектовані регульована рукоятка та телескопічний стрижень тримера гарантують зручність у використанні, а обертова ріжуча струна дозволяє точно підстригати траву, уникаючи пошкодження рослин і дерев завдяки складній огорожі. Цей бездротовий тример ефективно справляється з вузькими кутами та складнодоступними місцями у вашому саду. Змінний кут нахилу тримерної головки дозволяє досягти високих результатів навіть під перешкодами чи на схилах, а автоматичне регулювання довжини нитки забезпечує ідеальний зріз кожного разу.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/14454500/mainproduct/014f19ff-1e20-45e9-afc6-ee27a055f8e6/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/detail/7be9c023-66b7-45ef-b3d0-ea53d9ab13fb/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/detail/b19e464a-8eb3-4ecb-a2b5-3a34c8276953/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/detail/c8c31f7f-24cc-4c75-b7ff-770580a4b7a0/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/detail/fee18379-f2ea-4090-8527-dbc38e9af071/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/application/0371fa2f-d945-4c25-85f9-201acc9f8283/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/application/6e223969-5051-493e-b19f-f6bb0538dddc/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/application/7e93e947-1320-4586-898e-840dcd789d0e/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/application/7f7e2aab-1bb5-407d-b8b9-5441d0d9cc11/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14454500/application/ee50402a-3078-4633-9347-9f53aae3ba8b/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-3-18-dual-14454500.html?utm_source=google-feed&utm_medium=free&utm_content=14454500&utm_name=LTR%203-18%20Dual]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-3-18-dual-14454500.html?utm_source=google-feed&utm_medium=cpc&utm_content=14454500&utm_name=LTR%203-18%20Dual]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-3-18-dual-14454500.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                    
-                                                                            <g:product_type> Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторний тример для газонів</g:product_type>
-            <g:google_product_category>2218</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4066529036438</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторний тример для газонів</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>14454510</g:id>
             <g:title>
                 <![CDATA[Kärcher - Акумуляторний тример LTR 3-18 Dual Battery Set]]></g:title>
@@ -6147,49 +6062,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>15271970</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Професійний пилосос сухого прибирання T 11/1 Classic]]></g:title>
-                            <g:price>6399 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Міцний, надійний, надзвичайно економічний пилосос створює розрідження (вакуум) 235 мбар / 23,5 кПа при потужності споживання всього 850 Вт і, таким чином, гарантує відмінні результати всмоктування з дуже низьким робочим шумом всього 61 дБ (A). Це означає, що їм можна користуватися в будь-який час доби, в тому числі в місцях, з підвищеним вимогою до рівня звуку. При ємності 11 літрів, вага пилососа становить всього 4,2 кг. Має практичну ручку для перенесення і ергономічну форму, стійку до перекидання. T 11/1 Classic дуже компактний, зручний при перенесенні і забезпечує тривалу роботу без втоми. Такі аксесуари, як всмоктувальні трубки і насадка для підлоги, можна зручно розмістити на пилососі. У комплект входить фільтр-мішок з флісу.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/15271970/mainproduct/167143/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/15271970/detail/168476/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/15271970/detail/168477/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/15271970/detail/168478/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/15271970/application/169428/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/15271970/application/169461/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/15271970/application/169480/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/profesiini-pilososi/pilososi-sukhogo-pribirannja/t-11-1-classic-15271970.html?utm_source=google-feed&utm_medium=free&utm_content=15271970&utm_name=T%2011%2F1%20Classic]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/profesiini-pilososi/pilososi-sukhogo-pribirannja/t-11-1-classic-15271970.html?utm_source=google-feed&utm_medium=cpc&utm_content=15271970&utm_name=T%2011%2F1%20Classic]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/profesiini-pilososi/pilososi-sukhogo-pribirannja/t-11-1-classic-15271970.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                                                        
-                                                                            <g:product_type> Professional &gt; Професійні пилососи &gt; Пилососи сухого прибирання</g:product_type>
-            <g:google_product_category>619</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4054278731131</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Професійні пилососи &gt; Пилососи сухого прибирання</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>15271990</g:id>
             <g:title>
                 <![CDATA[Kärcher - Професійний пилосос сухого прибирання T 11/1 Classic HEPA]]></g:title>
@@ -7032,46 +6904,6 @@
             <g:google_product_category>536</g:google_product_category>
             <g:condition>new</g:condition>
             <g:gtin>4066529153562</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Господарські пилососи</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>16283600</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Господарський пилосос WD 6 P S V-30/6/22/T]]></g:title>
-                            <g:price>11999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Господарський пилосос WD 6 PS V-30/6/22/T має колосальну силу всмоктування, споживаючи при цьому всього лише 1300 Вт. Апарат оснащено 6-метровим кабелем, всмоктувальним шлангом довжиною 2,2 м і 30-літровим сміттєзбірником з отвором для зливу рідин, що закривається різьбовою пробкою. Вбудована штепсельна розетка з автоматикою увімкнення/вимкнення дозволяє підключати до нього електроінструменти (лобзики, шліфувальні машини тощо) для безпосереднього збору пилу, що утворюється під час роботи з ними. При цьому поворотний перемикач забезпечує регулювання сили всмоктування залежно від задачі, що вирішується. Вийняти плоский складчастий фільтр дуже легко і без контакту з брудом: достатньо лише від'єднати касету з ним. При цьому ефективна вбудована система очищення фільтра, що активується натисканням кнопки, забезпечує відновлення високої сили всмоктування. Для очищення важкодоступних місць та предметів, що потребують делікатного поводження, передбачено функцію видування. Знімна рукоятка із захистом від розрядів статичної електрики дозволяє встановлювати насадки безпосередньо на кінці всмоктувального шланга, що особливо важливо при збиранні дрібного пилу. Ще однією перевагою є можливість компактного зберігання шланга, що підвішується з обох боків у верхній частині пилососа, та закріплення насадки для підлоги разом зі шлангом та подовжувальними трубками на час перерв у роботі.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/16283600/mainproduct/176104/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/16283600/application/172110/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/16283600/application/172126/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/16283600/application/172838/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/16283600/application/172959/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/16283600/application/173739/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/gospodarski-pilososi/wd-6-p-s-v-30-6-22-t-16283600.html?utm_source=google-feed&utm_medium=free&utm_content=16283600&utm_name=WD%206%20P%20S%20V-30%2F6%2F22%2FT]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/gospodarski-pilososi/wd-6-p-s-v-30-6-22-t-16283600.html?utm_source=google-feed&utm_medium=cpc&utm_content=16283600&utm_name=WD%206%20P%20S%20V-30%2F6%2F22%2FT]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/gospodarski-pilososi/wd-6-p-s-v-30-6-22-t-16283600.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                        
-                                        <g:product_type> Home &amp; Garden &gt; Господарські пилососи</g:product_type>
-            <g:google_product_category>536</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4054278661810</g:gtin>
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Господарські пилососи</g:custom_label_0>
@@ -8507,37 +8339,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>16670300</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Професійний пилосос для вологого і сухого прибирання NT 50/2 Me Classic]]></g:title>
-                            <g:price>22999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Потужний двухтурбінний пилосос NT 50/2 Me Classic для великого вологого і сухого сміття, а також для швидкого збору рідин. Апарат укомплектований баком об'ємом 50л. Забезпечує максимальну надійність в роботі, при цьому простий у застосуванні. Стандартна рукоятка для транспортування та екстра міцне шасі забезпечує оптимальну мобільність апарату. Пилосос оснащений картриджних фільтром. Відповідає концепції Easy Service, значно знижує сервісні витрати.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/16670300/mainproduct/56873/d0.jpg]]></g:image_link>
-                        <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/pilososi-dlja-vsmoktuvannja-sukhogo-ta-vologogo-brudu/standartnii-klas/nt-50-2-me-classic-16670300.html?utm_source=google-feed&utm_medium=free&utm_content=16670300&utm_name=NT%2050%2F2%20Me%20Classic]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/pilososi-dlja-vsmoktuvannja-sukhogo-ta-vologogo-brudu/standartnii-klas/nt-50-2-me-classic-16670300.html?utm_source=google-feed&utm_medium=cpc&utm_content=16670300&utm_name=NT%2050%2F2%20Me%20Classic]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/pilososi-dlja-vsmoktuvannja-sukhogo-ta-vologogo-brudu/standartnii-klas/nt-50-2-me-classic-16670300.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                                                        
-                                        <g:product_type> Professional &gt; Пилососи для всмоктування сухого та вологого бруду &gt; Стандартний клас</g:product_type>
-            <g:google_product_category>619</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4054278070650</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Пилососи для всмоктування сухого та вологого бруду &gt; Стандартний клас</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>16672910</g:id>
             <g:title>
                 <![CDATA[Kärcher - Професійний пилосос для вологого і сухого прибирання NT 65/2 Ap]]></g:title>
@@ -9105,41 +8906,6 @@
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Мінімийки</g:custom_label_0>
             <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>20420220</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Акумулятор Battery Power + 36/60]]></g:title>
-                            <g:price>11599 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Літій-іонний акумулятор 36 В для нашої єдиної платформи Battery Power + вражає не тільки своєю неймовірною потужністю і тривалим часом роботи завдяки ємності 6 Агод, а й має додаткові функції для моніторингу і контролю. Технологія Real Time: для оптимального контролю стану батареї на вбудованому в неї РК-дисплеї відображаються рівень заряду, час до закінчення процесу заряду або залишковий час роботи. Водонепроникність: акумулятор захищений від впливу водяних струменів будь-якого напрямку (IPX5). Висока пікова енерговіддача забезпечується мікропроцесорним управлінням і оптимізованим розподілом тепла. Автоматичний контроль стану кожного елемента батареї забезпечує захист від перенапруги при заряді, перегріві або глибокому розряді. Компоненти корпуса надійно утримують акумулятор і захищають його від пошкоджень. Потужні літій-іонні елементи гарантують стабільну енерговіддачу, мають низький саморозряд та без ефекту пам'яті.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/20420220/mainproduct/113185/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/20420220/detail/157566/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/20420220/application/144060/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/akumuljator-battery-power-36-60-20420220.html?utm_source=google-feed&utm_medium=free&utm_content=20420220&utm_name=%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20Battery%20Power%20%2B%2036%2F60]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/akumuljator-battery-power-36-60-20420220.html?utm_source=google-feed&utm_medium=cpc&utm_content=20420220&utm_name=%D0%90%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%20Battery%20Power%20%2B%2036%2F60]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/akumuljator-battery-power-36-60-20420220.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                    
-                                        <g:product_type> Professional &gt; Акумулятор Power + &gt; Акумулятори</g:product_type>
-            <g:google_product_category>536</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4054278636009</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Акумулятор Power + &gt; Акумулятори</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
             <g:id>20550060</g:id>
@@ -11334,47 +11100,6 @@
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>26427060</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Захисний бризговик для мінімийок високого тиску]]></g:title>
-                            <g:price>1450 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Ідеально підходить для чищення кутових і крайових ділянок: бризговик (Splash guard) для захисту від бризок спеціально розроблений для апаратів високого тиску Kärcher класу K 2 - K 7. Ефективно захищає користувача і навколишні предмети від бризок води при роботі з мінімийкою. Прозора конструкція бризковика забезпечує чітку видимість оброблюваної поверхні. Бризговик сумісний з усіма новими струменевими трубками Vario Power і Multi Jets, а також з новими фрезами для бруду. (Не підходить до струменевих трубок Multi Power МР 145 і МР 180 (2.643-238.0, 2.643-239.0))]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/26427060/mainproduct/75112/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26427060/product/72508/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26427060/product/72516/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26427060/product/72523/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26427060/application/77540/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26427060/application/77586/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/zakhisnii-brizgovik-dlja-minimiiok-visokogo-tisku-26427060.html?utm_source=google-feed&utm_medium=free&utm_content=26427060&utm_name=%D0%97%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D0%B8%D0%B9%20%D0%B1%D1%80%D0%B8%D0%B7%D0%B3%D0%BE%D0%B2%D0%B8%D0%BA%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D1%96%D0%BD%D1%96%D0%BC%D0%B8%D0%B9%D0%BE%D0%BA%20%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B8%D1%81%D0%BA%D1%83]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/zakhisnii-brizgovik-dlja-minimiiok-visokogo-tisku-26427060.html?utm_source=google-feed&utm_medium=cpc&utm_content=26427060&utm_name=%D0%97%D0%B0%D1%85%D0%B8%D1%81%D0%BD%D0%B8%D0%B9%20%D0%B1%D1%80%D0%B8%D0%B7%D0%B3%D0%BE%D0%B2%D0%B8%D0%BA%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D1%96%D0%BD%D1%96%D0%BC%D0%B8%D0%B9%D0%BE%D0%BA%20%D0%B2%D0%B8%D1%81%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B8%D1%81%D0%BA%D1%83]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/zakhisnii-brizgovik-dlja-minimiiok-visokogo-tisku-26427060.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                        
-                                                                            <g:product_type> Home &amp; Garden &gt; Побутова техніка для прибирання біля будинку &gt; Розпилюючі трубки</g:product_type>
-            <g:google_product_category>6328</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4039784608542</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Побутова техніка для прибирання біля будинку &gt; Розпилюючі трубки</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>26427250</g:id>
             <g:title>
                 <![CDATA[Kärcher - Струменева трубка Vario Power VP 145 для К 4 - К 5]]></g:title>
@@ -11633,45 +11358,6 @@
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>26432340</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Щітка для миття колісних дисків]]></g:title>
-                            <g:price>1299 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Для ефективного очищення в секторі 360°. Форма щітки і розподіл щетини по всьому периметру дозволяють чудово очищати важкодоступні місця і невеликі проміжки, наприклад, колісні диски і спиці велосипедних коліс. Щітка відрізняється рівномірним розподілом води, що змиває бруд з усіх боків, високоякісної щетиною для ефективного і дбайливого очищення, надійним кріпленням до пістолета за допомогою накидної гайки і ергономічною ручкою, що полегшує виконання робіт.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/26432340/mainproduct/55166/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26432340/detail/5607/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26432340/detail/5609/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26432340/application/3502/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26432340/application/67595/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/shchitka-dlja-mittja-kolisnikh-diskiv-26432340.html?utm_source=google-feed&utm_medium=free&utm_content=26432340&utm_name=%D0%A9%D1%96%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%B8%D1%82%D1%82%D1%8F%20%D0%BA%D0%BE%D0%BB%D1%96%D1%81%D0%BD%D0%B8%D1%85%20%D0%B4%D0%B8%D1%81%D0%BA%D1%96%D0%B2]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/shchitka-dlja-mittja-kolisnikh-diskiv-26432340.html?utm_source=google-feed&utm_medium=cpc&utm_content=26432340&utm_name=%D0%A9%D1%96%D1%82%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BC%D0%B8%D1%82%D1%82%D1%8F%20%D0%BA%D0%BE%D0%BB%D1%96%D1%81%D0%BD%D0%B8%D1%85%20%D0%B4%D0%B8%D1%81%D0%BA%D1%96%D0%B2]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/shchitka-dlja-mittja-kolisnikh-diskiv-26432340.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                        
-                                                                            <g:product_type> Home &amp; Garden &gt; Побутова техніка для прибирання біля будинку &gt; Щітки</g:product_type>
-            <g:google_product_category>6328</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4039784920736</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Побутова техніка для прибирання біля будинку &gt; Щітки</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>26432390</g:id>
             <g:title>
                 <![CDATA[Kärcher - Струменева трубка Multi Power (K3 - K5)]]></g:title>
@@ -11701,39 +11387,6 @@
             <g:google_product_category>6328</g:google_product_category>
             <g:condition>new</g:condition>
             <g:gtin>4039784920972</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Побутова техніка для прибирання біля будинку &gt; Розпилюючі трубки</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>26432400</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Подовжувальна трубка]]></g:title>
-                            <g:price>739 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Для подовження струменевої трубки на 0,5 м. Сумісна з усіма побутовими насадками до апаратів високого тиску Kärcher.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/26432400/mainproduct/50734/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/26432400/application/85767/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/podovzhuvalna-trubka-26432400.html?utm_source=google-feed&utm_medium=free&utm_content=26432400&utm_name=%D0%9F%D0%BE%D0%B4%D0%BE%D0%B2%D0%B6%D1%83%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%20%D1%82%D1%80%D1%83%D0%B1%D0%BA%D0%B0]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/podovzhuvalna-trubka-26432400.html?utm_source=google-feed&utm_medium=cpc&utm_content=26432400&utm_name=%D0%9F%D0%BE%D0%B4%D0%BE%D0%B2%D0%B6%D1%83%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%20%D1%82%D1%80%D1%83%D0%B1%D0%BA%D0%B0]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/podovzhuvalna-trubka-26432400.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                        
-                                                                            <g:product_type> Home &amp; Garden &gt; Побутова техніка для прибирання біля будинку &gt; Розпилюючі трубки</g:product_type>
-            <g:google_product_category>6328</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4039784920989</g:gtin>
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Побутова техніка для прибирання біля будинку &gt; Розпилюючі трубки</g:custom_label_0>
@@ -15803,49 +15456,6 @@
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>28630000</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Насадка для підлоги до господарських пилососів]]></g:title>
-                            <g:price>1099 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Насадка для вологого і сухого прибирання з можливістю "парковки". Підходить для збору сухого сміття та рідин, завдяки двом щітковим або гумовим смужкам. Зручне перемикання режимів і чудове ковзання. Також є функція паркування під час перерв в роботі. Підходить до господарських пилсосоів Karcher WD.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/28630000/mainproduct/50294/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28630000/application/172053/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28630000/application/172054/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28630000/application/172130/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28630000/application/172153/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28630000/application/173135/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28630000/application/69427/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/nasadka-dlja-pidlogi-do-gospodarskikh-pilososiv-28630000.html?utm_source=google-feed&utm_medium=free&utm_content=28630000&utm_name=%D0%9D%D0%B0%D1%81%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20%D0%B4%D0%BE%20%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D1%85%20%D0%BF%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D1%96%D0%B2]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/nasadka-dlja-pidlogi-do-gospodarskikh-pilososiv-28630000.html?utm_source=google-feed&utm_medium=cpc&utm_content=28630000&utm_name=%D0%9D%D0%B0%D1%81%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20%D0%B4%D0%BE%20%D0%B3%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B0%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D1%85%20%D0%BF%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%81%D1%96%D0%B2]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/nasadka-dlja-pidlogi-do-gospodarskikh-pilososiv-28630000.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                        
-                                        <g:product_type> Home &amp; Garden &gt; Пилососи &gt; Насадки</g:product_type>
-            <g:google_product_category>618</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4039784973336</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи &gt; Насадки</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>28630050</g:id>
             <g:title>
                 <![CDATA[Kärcher - Плоский складчастий фільтр для WD 4/5/6]]></g:title>
@@ -17603,41 +17213,6 @@
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>28633370</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Комплект для прибирання підлоги EasyFix]]></g:title>
-                            <g:price>1299 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Насадка для підлоги EasyFix з універсальною серветкою, що підходить до неї, гарантує ретельне прибирання пароочисником будь-яких вологостійких твердих підлогових покриттів, включно з важкодоступними місцями в кутах, поруч зі стінами і предметами меблів. Серветка для підлоги легко і швидко закріплюється на ній за допомогою липучки - досить притиснути насадку до серветки. А після прибирання забруднена серветка легко знімається без контакту з брудом: треба лише наступити на її язичок і підняти насадку.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/28633370/mainproduct/f64dc546-77a1-4348-9da3-84c2ec408433/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28633370/application/196426/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/28633370/application/3f55bcc9-dfc3-458d-85e1-c1226937f57f/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/komplekt-dlja-pribirannja-pidlogi-easyfix-28633370.html?utm_source=google-feed&utm_medium=free&utm_content=28633370&utm_name=%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B8%D0%B1%D0%B8%D1%80%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20EasyFix]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/komplekt-dlja-pribirannja-pidlogi-easyfix-28633370.html?utm_source=google-feed&utm_medium=cpc&utm_content=28633370&utm_name=%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D1%80%D0%B8%D0%B1%D0%B8%D1%80%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20EasyFix]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/komplekt-dlja-pribirannja-pidlogi-easyfix-28633370.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                    
-                                                                            <g:product_type> Home &amp; Garden &gt; Пароочисник / Паропилосос / Прасувальна система &gt; Насадки</g:product_type>
-            <g:google_product_category>4548</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4066529041432</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пароочисник / Паропилосос / Прасувальна система &gt; Насадки</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>28633390</g:id>
             <g:title>
                 <![CDATA[Kärcher - Комплект універсальних серветок для підлоги EasyFix, 2 шт.]]></g:title>
@@ -18053,6 +17628,45 @@
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пароочисник / Паропилосос / Прасувальна система &gt; Комплект серветок</g:custom_label_0>
+            <g:custom_label_1>accessory</g:custom_label_1>
+        </entry>
+            <entry>
+            <g:id>28633590</g:id>
+            <g:title>
+                <![CDATA[Kärcher - Миюча насадка для м'яких меблів, для SE]]></g:title>
+                            <g:price>899 UAH</g:price>
+                <g:custom_label_2>normalPrice</g:custom_label_2>
+                        <g:description><![CDATA[Ергономічна миюча насадка для м'яких меблів, сумісна з миючими пилососами Kärcher серій SE 4, SE 5 і SE 6, забезпечує високу ефективність очищення завдяки робочій ширині 88 мм та прозорому оглядовому вікну для контролю процесу. Вона ідеально підходить для глибокого очищення килимів, оббивки меблів, автомобільних сидінь та інших текстильних поверхонь, полегшуючи роботу завдяки продуманій конструкції.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/28633590/mainproduct/ef57a8d9-7784-4f27-b715-046e3f7d1a7f/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28633590/application/26d48e23-7edc-4ccb-b85c-e80c61b74fc9/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28633590/application/29e925ef-3fe6-4de2-9b4b-4f10a430df59/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28633590/application/b92bbbd7-8df9-4d55-8388-c834318157ca/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28633590/application/e0f053d1-7839-47d9-98da-b3ffe831e17d/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/mijucha-nasadka-dlja-m-jakikh-mebliv-dlja-se-28633590.html?utm_source=google-feed&utm_medium=free&utm_content=28633590&utm_name=%D0%9C%D0%B8%D1%8E%D1%87%D0%B0%20%D0%BD%D0%B0%D1%81%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BC%27%D1%8F%D0%BA%D0%B8%D1%85%20%D0%BC%D0%B5%D0%B1%D0%BB%D1%96%D0%B2%2C%20%D0%B4%D0%BB%D1%8F%20SE]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/mijucha-nasadka-dlja-m-jakikh-mebliv-dlja-se-28633590.html?utm_source=google-feed&utm_medium=cpc&utm_content=28633590&utm_name=%D0%9C%D0%B8%D1%8E%D1%87%D0%B0%20%D0%BD%D0%B0%D1%81%D0%B0%D0%B4%D0%BA%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D0%BC%27%D1%8F%D0%BA%D0%B8%D1%85%20%D0%BC%D0%B5%D0%B1%D0%BB%D1%96%D0%B2%2C%20%D0%B4%D0%BB%D1%8F%20SE]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/mijucha-nasadka-dlja-m-jakikh-mebliv-dlja-se-28633590.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                        
+                                        <g:product_type> Home &amp; Garden &gt; Пилососи &gt; Насадки</g:product_type>
+            <g:google_product_category>618</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>4066529067876</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи &gt; Насадки</g:custom_label_0>
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
@@ -19173,38 +18787,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>33450870</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Телескопічна штанга, 3 x 150 см]]></g:title>
-                            <g:price>1999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[За допомогою нашої трисекційної телескопічної штанги (3 × 150 см) можна безпечно очищати високо розташовані поверхні, стоячи на підлозі або на землі. Її довжина дає змогу обійтися без драбини. Спеціальний повзунок запобігає скручуванню штанги, а запобіжний конус із затискачем забезпечує безпеку праці. Надзвичайно стабільна телескопічна штанга виготовлена з високоякісного алюмінію та пластику.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/33450870/mainproduct/cd67b8ee-f32a-41ee-96ff-795db745efa1/d0.jpg]]></g:image_link>
-                        <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/inventar-dlja-mittja-vikon/teleskopichni-shtangi-ta-priladdja/teleskopichna-shtanga-3-x-150-sm-33450870.html?utm_source=google-feed&utm_medium=free&utm_content=33450870&utm_name=%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF%D1%96%D1%87%D0%BD%D0%B0%20%D1%88%D1%82%D0%B0%D0%BD%D0%B3%D0%B0%2C%203%20x%20150%20%D1%81%D0%BC]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/inventar-dlja-mittja-vikon/teleskopichni-shtangi-ta-priladdja/teleskopichna-shtanga-3-x-150-sm-33450870.html?utm_source=google-feed&utm_medium=cpc&utm_content=33450870&utm_name=%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF%D1%96%D1%87%D0%BD%D0%B0%20%D1%88%D1%82%D0%B0%D0%BD%D0%B3%D0%B0%2C%203%20x%20150%20%D1%81%D0%BC]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/inventar-dlja-mittja-vikon/teleskopichni-shtangi-ta-priladdja/teleskopichna-shtanga-3-x-150-sm-33450870.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                                                                
-                                                                                                    
-                                        <g:product_type> Professional &gt; Інвентар для ручного прибирання &gt; Інвентар для миття вікон &gt; Телескопічні штанги та приладдя</g:product_type>
-            <g:google_product_category>111</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>8011706365081</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Інвентар для ручного прибирання &gt; Інвентар для миття вікон &gt; Телескопічні штанги</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>33451280</g:id>
             <g:title>
                 <![CDATA[Kärcher - Шубка White Star, 35 см]]></g:title>
@@ -19455,38 +19037,6 @@
             <g:google_product_category>6328</g:google_product_category>
             <g:condition>new</g:condition>
             <g:gtin>4054278238166</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Мийки високого тиску &gt; З&#039;єднувальні деталі &gt; Адаптер EASY!Lock</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>41110350</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Adapter 7 M18IG-TR20AG]]></g:title>
-                            <g:price>1540 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Цей адаптер забезпечує швидке та надійне приєднання сопел, мийних щіток або пристроїв для очищення поверхонь, оснащених роз'ємом EASY!Lock, до струменевих трубок з роз'ємом M 18 х 1,5. Вибір відповідного адаптера з нашої широкої програми адаптерів та його правильне приєднання значно полегшуються наявністю номерів на пластикових оболонках та їх двоколірним кодуванням: антрацитовий колір відповідає новим розніманням EASY!Lock, а чорний – колишнім розніманням з метричним різьбленням.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/41110350/mainproduct/72051/d0.jpg]]></g:image_link>
-                        <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/adapter-7-m18ig-tr20ag-41110350.html?utm_source=google-feed&utm_medium=free&utm_content=41110350&utm_name=Adapter%207%20M18IG-TR20AG]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/adapter-7-m18ig-tr20ag-41110350.html?utm_source=google-feed&utm_medium=cpc&utm_content=41110350&utm_name=Adapter%207%20M18IG-TR20AG]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/adapter-7-m18ig-tr20ag-41110350.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                    
-                                        <g:product_type> Professional &gt; Мийки високого тиску &gt; З&#039;єднувальні деталі &gt; Адаптер EASY!Lock</g:product_type>
-            <g:google_product_category>6328</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4054278238173</g:gtin>
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Professional &gt; Мийки високого тиску &gt; З&#039;єднувальні деталі &gt; Адаптер EASY!Lock</g:custom_label_0>
@@ -22885,39 +22435,6 @@
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>69042830</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Плоский гофрований фільтр]]></g:title>
-                            <g:price>1130 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Папір, перевірено по BIA-(U,S,G,C) клас пилу M (тільки 65/2 Eco)]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/69042830/mainproduct/158293/d0.jpg]]></g:image_link>
-                        <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/ploskii-gofrovanii-filtr-69042830.html?utm_source=google-feed&utm_medium=free&utm_content=69042830&utm_name=%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D1%84%D1%96%D0%BB%D1%8C%D1%82%D1%80]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/ploskii-gofrovanii-filtr-69042830.html?utm_source=google-feed&utm_medium=cpc&utm_content=69042830&utm_name=%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9%20%D1%84%D1%96%D0%BB%D1%8C%D1%82%D1%80]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/ploskii-gofrovanii-filtr-69042830.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                                                                
-                                                                                                    
-                                        <g:product_type> Professional &gt; Пилососи &gt; Фільтр T/NT &gt; Плоский гофрований фільтр &gt; Плоский гофрований фільтр (папір)</g:product_type>
-            <g:google_product_category>618</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4039784014060</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Пилососи &gt; Фільтр T/NT &gt; Плоский гофрований фільтр &gt; Плоский гофрований фільтр (</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>69042840</g:id>
             <g:title>
                 <![CDATA[Kärcher - Плоский складчастий фільтр (з поліефірного шовку)]]></g:title>
@@ -23140,6 +22657,41 @@
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Professional &gt; Пилососи &gt; Фільтр T/NT &gt; Пакет фільтрів із тканини</g:custom_label_0>
+            <g:custom_label_1>accessory</g:custom_label_1>
+        </entry>
+            <entry>
+            <g:id>69043220</g:id>
+            <g:title>
+                <![CDATA[Kärcher - Паперові фільтр-мішки для WD 2.200]]></g:title>
+                            <g:price>499 UAH</g:price>
+                <g:custom_label_2>normalPrice</g:custom_label_2>
+                        <g:description><![CDATA[Паперові фільтр-мішки (комплект 5 шт.) Виготовлені з міцної папери з високим ступенем фільтрації. Використовуються в моделі пилососа Karcher WD 2.200.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/69043220/mainproduct/48123/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/69043220/detail/107353/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/69043220/application/24088/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/paperovi-filtr-mishki-dlja-wd-2-200-69043220.html?utm_source=google-feed&utm_medium=free&utm_content=69043220&utm_name=%D0%9F%D0%B0%D0%BF%D0%B5%D1%80%D0%BE%D0%B2%D1%96%20%D1%84%D1%96%D0%BB%D1%8C%D1%82%D1%80-%D0%BC%D1%96%D1%88%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20WD%202.200]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/paperovi-filtr-mishki-dlja-wd-2-200-69043220.html?utm_source=google-feed&utm_medium=cpc&utm_content=69043220&utm_name=%D0%9F%D0%B0%D0%BF%D0%B5%D1%80%D0%BE%D0%B2%D1%96%20%D1%84%D1%96%D0%BB%D1%8C%D1%82%D1%80-%D0%BC%D1%96%D1%88%D0%BA%D0%B8%20%D0%B4%D0%BB%D1%8F%20WD%202.200]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/paperovi-filtr-mishki-dlja-wd-2-200-69043220.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                        
+                                        <g:product_type> Home &amp; Garden &gt; Пилососи &gt; Фільтри</g:product_type>
+            <g:google_product_category>618</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>4039784059290</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи &gt; Фільтри</g:custom_label_0>
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
@@ -24707,37 +24259,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>69992840</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Bucket blue 6L]]></g:title>
-                            <g:price>485 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Bucket blue 6L]]></g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/69992840/mainproduct/1338015c-8df9-4e16-a1aa-040ae6e62755/d0.jpg]]></g:image_link>
-                        <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/bucket-blue-6l-69992840.html?utm_source=google-feed&utm_medium=free&utm_content=69992840&utm_name=Bucket%20blue%206L]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/bucket-blue-6l-69992840.html?utm_source=google-feed&utm_medium=cpc&utm_content=69992840&utm_name=Bucket%20blue%206L]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/bucket-blue-6l-69992840.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                                                                
-                                                                                                    
-                                        <g:product_type> Professional &gt; Витратні матеріали &gt; Trolleys &amp; bucket systems &gt; Cleaning</g:product_type>
-            <g:google_product_category>536</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>8011706364084</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Витратні матеріали &gt; Trolleys &amp; bucket systems &gt; Cleaning</g:custom_label_0>
-            <g:custom_label_1>accessory</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>69992900</g:id>
             <g:title>
                 <![CDATA[Kärcher - Basket with bottle insert]]></g:title>
@@ -25511,46 +25032,6 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>92120890</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Комплект для вологого прибирання підлоги Uni Junior з рукояткою]]></g:title>
-                            <g:price>1999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Комплект із тримача Uni Junior з кільцевою гайкою, мопом Soft Band (35 см) і 14-літрового відра з віджимом та 4-компонентна складна рукоятка, 140 см. Система кріплення мопа за допомогою затискачів відміннь підходить для напівпрофесійного прибирання горизонтальних і вертикальних поверхонь.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/92120890/mainproduct/cc509530-67e3-4b49-a223-e6ed20598026/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/detail/51728b3a-6e79-4ba6-b1a1-9b56dec1f473/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/detail/ac785eda-38c9-48a0-a531-f6b9d8bf03ea/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/detail/f9abb558-42ed-488f-8789-d766c2d05bc8/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/webplus/7f6d97a4-f570-41b2-bd10-5c0521089b4a/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/pribiralni-ta-transportni-vizki-vizki-z-vidrami/odno-ta-dvokhviderni-vizki/komplekt-dlja-vologogo-pribirannja-pidlogi-uni-junior-z-rukojatkoju-92120890.html?utm_source=google-feed&utm_medium=free&utm_content=92120890&utm_name=%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B1%D0%B8%D1%80%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20Uni%20Junior%20%D0%B7%20%D1%80%D1%83%D0%BA%D0%BE%D1%8F%D1%82%D0%BA%D0%BE%D1%8E]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/pribiralni-ta-transportni-vizki-vizki-z-vidrami/odno-ta-dvokhviderni-vizki/komplekt-dlja-vologogo-pribirannja-pidlogi-uni-junior-z-rukojatkoju-92120890.html?utm_source=google-feed&utm_medium=cpc&utm_content=92120890&utm_name=%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B1%D0%B8%D1%80%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20Uni%20Junior%20%D0%B7%20%D1%80%D1%83%D0%BA%D0%BE%D1%8F%D1%82%D0%BA%D0%BE%D1%8E]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/pribiralni-ta-transportni-vizki-vizki-z-vidrami/odno-ta-dvokhviderni-vizki/komplekt-dlja-vologogo-pribirannja-pidlogi-uni-junior-z-rukojatkoju-92120890.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                                                                
-                                                                                                    
-                                        <g:product_type> Professional &gt; Інвентар для ручного прибирання &gt; Прибиральні та транспортні візки, візки з відрами &gt; Одно- та двохвідерні візки</g:product_type>
-            <g:google_product_category>111</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>8011706330461</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Інвентар для ручного прибирання &gt; Прибиральні та транспортні візки, візки з відр</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>92121070</g:id>
             <g:title>
                 <![CDATA[Kärcher - Комплект совок та щітка]]></g:title>
@@ -25830,38 +25311,6 @@
             <g:identifier_exists>false</g:identifier_exists>
             <g:custom_label_0>uk &gt; Professional &gt; Транспорт</g:custom_label_0>
             <g:custom_label_1>detergent</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>96114280</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Акумуляторний тример LTR 18-25 Battery Set]]></g:title>
-                            <g:price>8999 UAH</g:price>
-                <g:sale_price>5999 UAH</g:sale_price>
-                <g:custom_label_2>specialPrice</g:custom_label_2>
-                        <g:description><![CDATA[Акумуляторний тример LTR 18-25 Battery - це безшумний і надійний апарат. Його кручена ліска не тільки гарантує точний зріз, але і легко досягає кожного куточка саду. Подача ліски регулюється автоматично, щоб забезпечити її ідеальну довжину. Більш того, функція зрізання полегшує створення чистих, чітких країв уздовж доріжок і патіо. Акумуляторний тример надзвичайно легкий, а конструкція подвійної рукоятки робить його дуже зручним для зберігання та використання.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/96114280/mainproduct/203306/d0.jpg]]></g:image_link>
-                        <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-18-25-battery-set-96114280.html?utm_source=google-feed&utm_medium=free&utm_content=96114280&utm_name=LTR%2018-25%20Battery%20Set]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-18-25-battery-set-96114280.html?utm_source=google-feed&utm_medium=cpc&utm_content=96114280&utm_name=LTR%2018-25%20Battery%20Set]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-18-25-battery-set-96114280.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                    
-                                                                            <g:product_type> Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторний тример для газонів</g:product_type>
-            <g:google_product_category>2218</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin></g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>false</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторний тример для газонів</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
             <g:id>96119150</g:id>
