@@ -2056,6 +2056,51 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
+            <g:id>11984120</g:id>
+            <g:title>
+                <![CDATA[Kärcher - VCH 4 UVClean]]></g:title>
+                            <g:price>7999 UAH</g:price>
+                <g:sale_price>4999 UAH</g:sale_price>
+                <g:custom_label_2>specialPrice</g:custom_label_2>
+                        <g:description><![CDATA[Чистий і здоровий сон можливий завдяки ручному дезінфікуючому пилососу VCH 4 UVClean. У матрацах, подушках та інших м’яких меблях накопичуються мільйони пилових кліщів і бактерій, які можуть спричиняти алергічні реакції та заважати повноцінному відпочинку, тому обмежуватися лише видимою чистотою недостатньо. Апарат VCH 4 UVClean дозволяє ефективно видаляти як видимі, так і невидимі забруднення, забезпечуючи глибоке очищення матраців і текстильних поверхонь. У його роботі поєднуються три високоефективні технології: інтенсивна вібрація вибивного валика вивільняє з волокон тканини глибоко забиті частинки бруду, лусочки шкіри та пилових кліщів і піднімає їх на поверхню; потужний електродвигун створює сильний потік повітря й надійно збирає всі відокремлені забруднення у контейнер для сміття; вбудоване джерело короткохвильового ультрафіолетового випромінювання нейтралізує до 99,9 % бактерій і кліщів, що знаходяться на поверхні. Така комбінація технологій забезпечує справді глибоке, безпечне та ефективне очищення будь-яких матраців, подушок, м’яких меблів та інших текстильних виробів, створюючи в домі атмосферу свіжості, гігієни та захисту від алергенів.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/11984120/mainproduct/4bf389ca-1020-46e7-bc16-741c863836c6/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/detail/3402e7d2-5752-4a26-8fb6-2de69544f7bf/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/detail/bf61d834-b3d4-4043-8bb5-e1abacd915b8/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/26615743-5bc0-4bae-b705-cefc6a11938b/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/2f1dda53-1946-4134-9554-3be90240ad90/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/583753ae-a734-4f98-aa08-7fd9477b4d5a/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/633a7fa2-5451-41a5-bba8-dbd14563e1d0/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/11984120/application/f576ad72-f16a-451b-9f4e-6f38730109d7/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/pilososi/vch-4-uvclean-11984120.html?utm_source=google-feed&utm_medium=free&utm_content=11984120&utm_name=VCH%204%20UVClean]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/pilososi/vch-4-uvclean-11984120.html?utm_source=google-feed&utm_medium=cpc&utm_content=11984120&utm_name=VCH%204%20UVClean]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/pilososi/vch-4-uvclean-11984120.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                        
+                                                                            <g:product_type> Home &amp; Garden &gt; Пилососи</g:product_type>
+            <g:google_product_category>619</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>4066529180155</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи</g:custom_label_0>
+            <g:custom_label_1>machine</g:custom_label_1>
+        </entry>
+            <entry>
             <g:id>11986700</g:id>
             <g:title>
                 <![CDATA[Kärcher - Акумуляторний пилосос VC 6 Cordless ourFamily]]></g:title>
@@ -3998,39 +4043,6 @@
             <g:google_product_category>619</g:google_product_category>
             <g:condition>new</g:condition>
             <g:gtin>4039784978522</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Professional &gt; Пилососи для всмоктування сухого та вологого бруду &gt; Стандартний клас</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>14285680</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Професійний пилосос для вологого і сухого прибирання NT 30/1 Me Classic]]></g:title>
-                            <g:price>9599 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
-                        <g:description><![CDATA[Потужний і простий пилосос для вологого / сухого прибирання. Відповідно до вимог основних цільових груп: обслуговування автомобілів та будівництво, акцент зроблено на компактній і міцній конструкції і невеликих витратах на обслуговування завдяки концепції Easy Service, швидкій заміні турбіни. Основний багаторазовий корзинний фільтр з флісу дозволяє пилососити без фільтр-мішка - це дозволяє заощадити на витратних матеріалах.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/14285680/mainproduct/42324/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/14285680/application/51568/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/pilososi-dlja-vsmoktuvannja-sukhogo-ta-vologogo-brudu/standartnii-klas/nt-30-1-me-classic-14285680.html?utm_source=google-feed&utm_medium=free&utm_content=14285680&utm_name=NT%2030%2F1%20Me%20Classic]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/professional/pilososi-dlja-vsmoktuvannja-sukhogo-ta-vologogo-brudu/standartnii-klas/nt-30-1-me-classic-14285680.html?utm_source=google-feed&utm_medium=cpc&utm_content=14285680&utm_name=NT%2030%2F1%20Me%20Classic]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/pilososi-dlja-vsmoktuvannja-sukhogo-ta-vologogo-brudu/standartnii-klas/nt-30-1-me-classic-14285680.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                                                        
-                                        <g:product_type> Professional &gt; Пилососи для всмоктування сухого та вологого бруду &gt; Стандартний клас</g:product_type>
-            <g:google_product_category>619</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4039784978515</g:gtin>
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Professional &gt; Пилососи для всмоктування сухого та вологого бруду &gt; Стандартний клас</g:custom_label_0>
@@ -26700,38 +26712,6 @@
             <g:custom_label_1>detergent</g:custom_label_1>
         </entry>
             <entry>
-            <g:id>96114280</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Акумуляторний тример LTR 18-25 Battery Set]]></g:title>
-                            <g:price>8999 UAH</g:price>
-                <g:sale_price>5999 UAH</g:sale_price>
-                <g:custom_label_2>specialPrice</g:custom_label_2>
-                        <g:description><![CDATA[Акумуляторний тример LTR 18-25 Battery - це безшумний і надійний апарат. Його кручена ліска не тільки гарантує точний зріз, але і легко досягає кожного куточка саду. Подача ліски регулюється автоматично, щоб забезпечити її ідеальну довжину. Більш того, функція зрізання полегшує створення чистих, чітких країв уздовж доріжок і патіо. Акумуляторний тример надзвичайно легкий, а конструкція подвійної рукоятки робить його дуже зручним для зберігання та використання.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/96114280/mainproduct/203306/d0.jpg]]></g:image_link>
-                        <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-18-25-battery-set-96114280.html?utm_source=google-feed&utm_medium=free&utm_content=96114280&utm_name=LTR%2018-25%20Battery%20Set]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-18-25-battery-set-96114280.html?utm_source=google-feed&utm_medium=cpc&utm_content=96114280&utm_name=LTR%2018-25%20Battery%20Set]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatornii-trimer-dlja-gazoniv/ltr-18-25-battery-set-96114280.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                                                                    
-                                                                                                    
-                                                                            <g:product_type> Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторний тример для газонів</g:product_type>
-            <g:google_product_category>2218</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin></g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>false</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторний тример для газонів</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
             <g:id>96119150</g:id>
             <g:title>
                 <![CDATA[Kärcher - Акумуляторна ланцюгова пила CNS 18-30 Battery + Швидкозарядний комплект + Акумулятор]]></g:title>
@@ -26760,6 +26740,38 @@
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>false</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторна ланцюгова пила</g:custom_label_0>
+            <g:custom_label_1>machine</g:custom_label_1>
+        </entry>
+            <entry>
+            <g:id>96121120</g:id>
+            <g:title>
+                <![CDATA[Kärcher - Акумуляторна газонокосарка LMO 18-33 Battery + LTR 18-25 Battery + Швидкозарядний комплект 18 В]]></g:title>
+                            <g:price>19999 UAH</g:price>
+                <g:sale_price>14999 UAH</g:sale_price>
+                <g:custom_label_2>specialPrice</g:custom_label_2>
+                        <g:description><![CDATA[Надзвичайно легка, маневрена і зручна: акумуляторна газонокосарка LMO 18-33 Battery робить роботу легшою, ніж будь-коли раніше, навіть на більш складних ділянках газону. Її система скошування 2-в-1 дає користувачам вибір: збирати зрізану траву в травозбірник або розподіляти її по газону в якості натурального добрива за допомогою насадки для мульчування. Акумуляторна газонокосарка також залишає в минулому нерівно відрізані травинки, так як загострені сталеві леза кожен раз залишають чисті зрізи. Зручна м'яка ручка і перемикачі з обох сторін роблять газонокосарку приємною у використанні. Коли контейнер заповнений, зручний індикатор рівня заповнення показує, що його необхідно спорожнити. Додаткові особливості: ключ безпеки в якості замка безпеки для дітей, що запобігає ненавмисному запуску пристрою, направляюча рукоятка, що регулюється по висоті, для зручного робочого положення і складанийдизайн для компактного зберігання.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/96121120/mainproduct/3c70119e-f53c-4c6c-9783-cd31df6e2d8e/d0.jpg]]></g:image_link>
+                        <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatorna-gazonokosarka/lmo-18-33-battery-ltr-18-25-battery-shvidkozarjadnii-komplekt-18-v-96121120.html?utm_source=google-feed&utm_medium=free&utm_content=96121120&utm_name=LMO%2018-33%20Battery%20%2B%20LTR%2018-25%20Battery%20%2B%20%D0%A8%D0%B2%D0%B8%D0%B4%D0%BA%D0%BE%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%2018%20%D0%92]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatorna-gazonokosarka/lmo-18-33-battery-ltr-18-25-battery-shvidkozarjadnii-komplekt-18-v-96121120.html?utm_source=google-feed&utm_medium=cpc&utm_content=96121120&utm_name=LMO%2018-33%20Battery%20%2B%20LTR%2018-25%20Battery%20%2B%20%D0%A8%D0%B2%D0%B8%D0%B4%D0%BA%D0%BE%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%2018%20%D0%92]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/sadovii-instrument/akumuljatorna-gazonokosarka/lmo-18-33-battery-ltr-18-25-battery-shvidkozarjadnii-komplekt-18-v-96121120.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                                                                    
+                                                                                                    
+                                                                            <g:product_type> Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторна газонокосарка</g:product_type>
+            <g:google_product_category>694</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin></g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>false</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Садовий інструмент &gt; Акумуляторна газонокосарка</g:custom_label_0>
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
