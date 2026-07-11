@@ -288,7 +288,8 @@
             <g:title>
                 <![CDATA[Kärcher - Електрогенератор PGG 3/1]]></g:title>
                             <g:price>27999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
+                <g:sale_price>24999 UAH</g:sale_price>
+                <g:custom_label_2>specialPrice</g:custom_label_2>
                         <g:description><![CDATA[Висока продуктивність за компактної конструкції: мобільний синхронний генератор PGG 3/1 вражає високою потужністю двигуна - 2,8 кВт. Надійний 4-тактний бензиновий двигун забезпечує автономне електропостачання з постійною потужністю, що віддається, впродовж тривалого часу (до 12 год, у режимі повного навантаження - 6,5 год). Завдяки цьому запасу палива в 15-літровому баку може вистачити на цілий робочий день. Практична і компактна конструкція генератора PGG 3/1 дає змогу використовувати його в будь-яких місцях, наприклад, на будівельних майданчиках, у сільському господарстві або на об'єктах комунального господарства. Надійні запобіжні пристрої (зокрема, системи захисту від перевантаження і нестачі мастила) гарантують безпечну роботу генератора, а стійкі до пошкоджень колеса і складна ручка для переміщення - його легке транспортування. 2 штепсельні розетки із захисним контактом оснащені автоматичним регулятором напруги, що дає змогу використовувати генератор для живлення чутливих електронних пристроїв.]]>
                 </g:description>
             <g:image_link>
@@ -325,8 +326,9 @@
             <g:id>10422080</g:id>
             <g:title>
                 <![CDATA[Kärcher - Електрогенератор PGG 6/1]]></g:title>
-                            <g:price>0 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
+                            <g:price>43999 UAH</g:price>
+                <g:sale_price>38999 UAH</g:sale_price>
+                <g:custom_label_2>specialPrice</g:custom_label_2>
                         <g:description><![CDATA[З потужним і надійним 4-тактним бензиновим двигуном (EU STAGE V) наш синхронний генератор PGG 6/1 потужністю 5 кВт гарантує незалежне енергоживлення на будівельних майданчиках, в сільському і муніципальному господарствах. Великий 25-літровий бак забезпечує тривалий час роботи: до 10 годин (при повній потужності до 6,5 годин), в той час як міцна сталева рама, шини із захистом від проколів і складальна штовхаюча ручка забезпечують максимальну мобільність навіть у важких умовах експлуатації. Завдяки 2 розеткам із заземленням і 1 синій розетці для причепів (змінний струм, 1-фазний) з автоматичним регулятором напруги (AVR) апарат пропонує відповідні можливості підключення для роботи з різними інструментами і обладнанням. Ретельно продумана технологія безпеки з захистом від перевантаження і нестачі масла надійно захищає простий в експлуатації апарат від пошкоджень.]]>
                 </g:description>
             <g:image_link>
@@ -364,7 +366,8 @@
             <g:title>
                 <![CDATA[Kärcher - Електрогенератор PGG 8/3]]></g:title>
                             <g:price>53999 UAH</g:price>
-                <g:custom_label_2>normalPrice</g:custom_label_2>
+                <g:sale_price>49999 UAH</g:sale_price>
+                <g:custom_label_2>specialPrice</g:custom_label_2>
                         <g:description><![CDATA[Потужний синхронний генератор PGG 8/3 з бензиновим двигуном забезпечує надійне електроживлення в будь-яких місцях, у т. ч. на об'єктах без стабільного електропостачання, наприклад, на будмайданчиках, у сільському або комунальному господарстві. Завдяки стійким до пошкоджень колесам і складаній ручці апарат можна легко переміщати на різні об'єкти і з одного місця застосування до іншого. Місткий 25-літровий паливний бак забезпечує тривалу роботу (до 7 год, у режимі повного навантаження - 5,5 год). Надійний 4-тактний бензиновий двигун, що відповідає європейському екологічному стандарту STAGE V, забезпечує постійну віддачу потужності 7 кВт. Завдяки 2 однофазним штепсельним розеткам із захисним контактом і червоній розетці для живлення трифазною напругою 400 В генератор PGG 8/3 забезпечує різні варіанти підключення електроприладів. При цьому автоматичний регулятор напруги дає змогу під'єднувати до апарата чутливі електронні пристрої. Безпеку експлуатації гарантують продумані запобіжні пристрої. Системи захисту від перевантаження і нестачі мастила, а також міцна рама зі сталевих труб надійно захищають апарат і персонал, що його використовує, від будь-яких ризиків.]]>
                 </g:description>
             <g:image_link>
@@ -1574,45 +1577,6 @@
             <g:google_product_category>1226</g:google_product_category>
             <g:condition>new</g:condition>
             <g:gtin>4054278937328</g:gtin>
-            <g:brand>Kärcher</g:brand>
-            <g:identifier_exists>true</g:identifier_exists>
-            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Мінімийки</g:custom_label_0>
-            <g:custom_label_1>machine</g:custom_label_1>
-        </entry>
-            <entry>
-            <g:id>11805800</g:id>
-            <g:title>
-                <![CDATA[Kärcher - Мінімийка високого тиску K 5 Basic]]></g:title>
-                            <g:price>13999 UAH</g:price>
-                <g:sale_price>12999 UAH</g:sale_price>
-                <g:custom_label_2>specialPrice</g:custom_label_2>
-                        <g:description><![CDATA[Модель мінімийки K 5 Basic з водяним охолодженням двигуна має телескопічну ручку, швидкознімну систему підключення пістолета, 8-метровий шланг високого тиску і водяний фільтр для захисту насоса. Тиск в струменевій трубці Vario Power (VPS) можна регулювати, просто повертаючи її; а фреза для бруду, з обертовим точковим струменем, видаляє навіть найстійкіші забруднення. В результаті К 5 Basic є ідеальним апаратом для помірно забруднених автомобілів, садових огорож, велосипедів і т.д.]]>
-                </g:description>
-            <g:image_link>
-                <![CDATA[https://s1.kaercher-media.com/mam/11805800/mainproduct/72607/d0.jpg]]></g:image_link>
-                                                                                                            <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/11805800/application/116015/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/11805800/application/72724/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/11805800/application/74782/d0.jpg]]></g:additional_image_link>
-                                                                                <g:additional_image_link>
-                            <![CDATA[https://s1.kaercher-media.com/mam/11805800/application/75972/d0.jpg]]></g:additional_image_link>
-                                                            <g:link>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/minimiiki/k-5-basic-11805800.html?utm_source=google-feed&utm_medium=free&utm_content=11805800&utm_name=K%205%20Basic]]>
-            </g:link>
-            <g:ads_redirect>
-                <![CDATA[https://www.karcher.com/ua-uk/home-garden/minimiiki/k-5-basic-11805800.html?utm_source=google-feed&utm_medium=cpc&utm_content=11805800&utm_name=K%205%20Basic]]>
-            </g:ads_redirect>
-            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/minimiiki/k-5-basic-11805800.html]]></g:canonical_link>
-            <g:availability>In Stock</g:availability>
-                                                    
-                                                                                                                                                
-                                                                                                                                        
-                                                                            <g:product_type> Home &amp; Garden &gt; Мінімийки</g:product_type>
-            <g:google_product_category>1226</g:google_product_category>
-            <g:condition>new</g:condition>
-            <g:gtin>4039784973480</g:gtin>
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Мінімийки</g:custom_label_0>
@@ -9234,6 +9198,55 @@
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
+            <g:id>17663650</g:id>
+            <g:title>
+                <![CDATA[Kärcher - Ручна підмітальна машина S 4 Twin 2in1]]></g:title>
+                            <g:price>7999 UAH</g:price>
+                <g:sale_price>6999 UAH</g:sale_price>
+                <g:custom_label_2>specialPrice</g:custom_label_2>
+                        <g:description><![CDATA[За допомогою підмітальної машини Kärcher S 4 Twin 2-в-1 тротуари і дороги, в'їзди і двори очищаються в п'ять разів швидше, ніж з використанням мітли і совка. При цьому сміття відразу ж збирається в контейнер машини. Сучасний підхід до прибирання: легко, швидко і чисто! Протиударна і корозійно-стійка підмітальна машина має робочу ширину 680 міліметрів, дві бічні щітки і дві бічні спеціальні щітки з більш грубої щетини для збору вологого сміття. Машина розрахована для підмітання площ змаксимальною продуктивністю до 2400 м² за годину. Апарат збирає сміття безпосередньо в 20 л контейнер. Міцна підмітальна машина маневрена і надзвичайно зручна в роботі. Наддовгі щетинки бічних щіток забезпечують ретельну чистоту аж до країв. Регульована за висотою ергономічна рукоятка може бути оптимально підлаштована під зріст користувача. Ручка може бути складена для вертикального зберігання з економією місця. Сміття можна легко висипати з контейнеру без контакту з брудом.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/17663650/mainproduct/154012/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/detail/129293/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/detail/129300/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/detail/129303/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/detail/129309/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/detail/129311/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/application/128466/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/application/128470/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/application/129848/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/17663650/application/129850/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/ruchni-pidmitalni-mashini/s-4-twin-2in1-17663650.html?utm_source=google-feed&utm_medium=free&utm_content=17663650&utm_name=S%204%20Twin%202in1]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/home-garden/ruchni-pidmitalni-mashini/s-4-twin-2in1-17663650.html?utm_source=google-feed&utm_medium=cpc&utm_content=17663650&utm_name=S%204%20Twin%202in1]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/home-garden/ruchni-pidmitalni-mashini/s-4-twin-2in1-17663650.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                        
+                                                                            <g:product_type> Home &amp; Garden &gt; Ручні підмітальні машини</g:product_type>
+            <g:google_product_category>500016</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>4054278692753</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Ручні підмітальні машини</g:custom_label_0>
+            <g:custom_label_1>machine</g:custom_label_1>
+        </entry>
+            <entry>
             <g:id>17832230</g:id>
             <g:title>
                 <![CDATA[Kärcher - Підлогомийна машина BR 30/4 C]]></g:title>
@@ -15801,6 +15814,45 @@
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи &gt; Насадки</g:custom_label_0>
+            <g:custom_label_1>accessory</g:custom_label_1>
+        </entry>
+            <entry>
+            <g:id>28630050</g:id>
+            <g:title>
+                <![CDATA[Kärcher - Плоский складчастий фільтр для WD 4/5/6]]></g:title>
+                            <g:price>799 UAH</g:price>
+                <g:custom_label_2>normalPrice</g:custom_label_2>
+                        <g:description><![CDATA[Плоский складчастий фільтр встановлюється в касету для швидкої і простої заміни без контакту з брудом. Дозволяє чергувати операції вологого і сухого прибирання без заміни фільтра.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/28630050/mainproduct/50942/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28630050/detail/169636/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28630050/detail/170069/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28630050/detail/170070/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/28630050/application/172832/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/ploskii-skladchastii-filtr-dlja-wd-4-5-6-28630050.html?utm_source=google-feed&utm_medium=free&utm_content=28630050&utm_name=%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9%20%D1%84%D1%96%D0%BB%D1%8C%D1%82%D1%80%20%D0%B4%D0%BB%D1%8F%20WD%204%2F5%2F6]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/aksesuari/ploskii-skladchastii-filtr-dlja-wd-4-5-6-28630050.html?utm_source=google-feed&utm_medium=cpc&utm_content=28630050&utm_name=%D0%9F%D0%BB%D0%BE%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B9%20%D1%84%D1%96%D0%BB%D1%8C%D1%82%D1%80%20%D0%B4%D0%BB%D1%8F%20WD%204%2F5%2F6]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/aksesuari/ploskii-skladchastii-filtr-dlja-wd-4-5-6-28630050.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                                
+                                                                                                                                        
+                                        <g:product_type> Home &amp; Garden &gt; Пилососи &gt; Фільтри</g:product_type>
+            <g:google_product_category>618</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>4039784945234</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Home &amp; Garden &gt; Пилососи &gt; Фільтри</g:custom_label_0>
             <g:custom_label_1>accessory</g:custom_label_1>
         </entry>
             <entry>
@@ -26341,6 +26393,46 @@
             <g:brand>Kärcher</g:brand>
             <g:identifier_exists>true</g:identifier_exists>
             <g:custom_label_0>uk &gt; Professional &gt; Інвентар для ручного прибирання &gt; Інвентар для сухого прибирання підлог і поверх</g:custom_label_0>
+            <g:custom_label_1>machine</g:custom_label_1>
+        </entry>
+            <entry>
+            <g:id>92120890</g:id>
+            <g:title>
+                <![CDATA[Kärcher - Комплект для вологого прибирання підлоги Uni Junior з рукояткою]]></g:title>
+                            <g:price>1999 UAH</g:price>
+                <g:custom_label_2>normalPrice</g:custom_label_2>
+                        <g:description><![CDATA[Комплект із тримача Uni Junior з кільцевою гайкою, мопом Soft Band (35 см) і 14-літрового відра з віджимом та 4-компонентна складна рукоятка, 140 см. Система кріплення мопа за допомогою затискачів відміннь підходить для напівпрофесійного прибирання горизонтальних і вертикальних поверхонь.]]>
+                </g:description>
+            <g:image_link>
+                <![CDATA[https://s1.kaercher-media.com/mam/92120890/mainproduct/019f3c18-31f0-78fc-b5fc-27d6c6c5d7d8/d0.jpg]]></g:image_link>
+                                                                                                            <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/detail/29eb98f0-3dce-4bf8-b959-940f276c57be/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/detail/7a393756-c12f-4081-94c4-3e4bb4cec865/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/detail/7dc6be33-add8-47cf-a22c-de0f8488ce34/d0.jpg]]></g:additional_image_link>
+                                                                                <g:additional_image_link>
+                            <![CDATA[https://s1.kaercher-media.com/mam/92120890/webplus/7f6d97a4-f570-41b2-bd10-5c0521089b4a/d0.jpg]]></g:additional_image_link>
+                                                            <g:link>
+                <![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/pribiralni-ta-transportni-vizki-vizki-z-vidrami/odno-ta-dvokhviderni-vizki/komplekt-dlja-vologogo-pribirannja-pidlogi-uni-junior-z-rukojatkoju-92120890.html?utm_source=google-feed&utm_medium=free&utm_content=92120890&utm_name=%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B1%D0%B8%D1%80%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20Uni%20Junior%20%D0%B7%20%D1%80%D1%83%D0%BA%D0%BE%D1%8F%D1%82%D0%BA%D0%BE%D1%8E]]>
+            </g:link>
+            <g:ads_redirect>
+                <![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/pribiralni-ta-transportni-vizki-vizki-z-vidrami/odno-ta-dvokhviderni-vizki/komplekt-dlja-vologogo-pribirannja-pidlogi-uni-junior-z-rukojatkoju-92120890.html?utm_source=google-feed&utm_medium=cpc&utm_content=92120890&utm_name=%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%D0%B2%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%B1%D0%B8%D1%80%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%BF%D1%96%D0%B4%D0%BB%D0%BE%D0%B3%D0%B8%20Uni%20Junior%20%D0%B7%20%D1%80%D1%83%D0%BA%D0%BE%D1%8F%D1%82%D0%BA%D0%BE%D1%8E]]>
+            </g:ads_redirect>
+            <g:canonical_link><![CDATA[https://www.karcher.com/ua-uk/professional/inventar-dlja-ruchnogo-pribirannja/pribiralni-ta-transportni-vizki-vizki-z-vidrami/odno-ta-dvokhviderni-vizki/komplekt-dlja-vologogo-pribirannja-pidlogi-uni-junior-z-rukojatkoju-92120890.html]]></g:canonical_link>
+            <g:availability>In Stock</g:availability>
+                                                    
+                                                                                                                                                
+                                                                                                                                                                                    
+                                                                                                                                                
+                                                                                                    
+                                        <g:product_type> Professional &gt; Інвентар для ручного прибирання &gt; Прибиральні та транспортні візки, візки з відрами &gt; Одно- та двохвідерні візки</g:product_type>
+            <g:google_product_category>111</g:google_product_category>
+            <g:condition>new</g:condition>
+            <g:gtin>8011706330461</g:gtin>
+            <g:brand>Kärcher</g:brand>
+            <g:identifier_exists>true</g:identifier_exists>
+            <g:custom_label_0>uk &gt; Professional &gt; Інвентар для ручного прибирання &gt; Прибиральні та транспортні візки, візки з відр</g:custom_label_0>
             <g:custom_label_1>machine</g:custom_label_1>
         </entry>
             <entry>
