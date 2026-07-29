@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-07-29T00:57:28Z",
-    "total": 748,
+    "updatedAt": "2026-07-29T04:18:59Z",
+    "total": 747,
     "data": [
         {
             "code": "00162420",
@@ -18605,37 +18605,6 @@
         {
             "code": "62958490",
             "price": 850,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "62958500",
-            "price": 670,
             "old_price": null,
             "availability": true,
             "stock": 10,
