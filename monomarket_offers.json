@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-08-19T01:21:49Z",
-    "total": 759,
+    "updatedAt": "2026-08-19T02:39:49Z",
+    "total": 758,
     "data": [
         {
             "code": "00162420",
@@ -594,6 +594,68 @@
         {
             "code": "10649120",
             "price": 101999,
+            "old_price": null,
+            "availability": true,
+            "stock": 10,
+            "warehouses": null,
+            "warranty_type": "manufacturer",
+            "warranty_period": 12,
+            "max_pay_in_parts": 12,
+            "delivery_methods": [
+                {
+                    "method": "nova-post:branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:cargo_branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:postomat",
+                    "price": 0
+                },
+                {
+                    "method": "courier:nova-post",
+                    "price": 0
+                }
+            ],
+            "days_to_dispatch": 1,
+            "manufacture": null
+        },
+        {
+            "code": "10811500",
+            "price": 12999,
+            "old_price": null,
+            "availability": true,
+            "stock": 10,
+            "warehouses": null,
+            "warranty_type": "manufacturer",
+            "warranty_period": 12,
+            "max_pay_in_parts": 12,
+            "delivery_methods": [
+                {
+                    "method": "nova-post:branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:cargo_branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:postomat",
+                    "price": 0
+                },
+                {
+                    "method": "courier:nova-post",
+                    "price": 0
+                }
+            ],
+            "days_to_dispatch": 1,
+            "manufacture": null
+        },
+        {
+            "code": "10811900",
+            "price": 19999,
             "old_price": null,
             "availability": true,
             "stock": 10,
@@ -14387,37 +14449,6 @@
             "manufacture": null
         },
         {
-            "code": "28633610",
-            "price": 5999,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
             "code": "28633680",
             "price": 799,
             "old_price": null,
@@ -14512,37 +14543,6 @@
         },
         {
             "code": "28633730",
-            "price": 499,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "28633810",
             "price": 499,
             "old_price": null,
             "availability": true,
@@ -15164,37 +15164,6 @@
         {
             "code": "28892210",
             "price": 0,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "28892810",
-            "price": 2420,
             "old_price": null,
             "availability": true,
             "stock": 10,
