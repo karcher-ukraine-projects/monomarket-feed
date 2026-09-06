@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-09-05T23:37:05Z",
-    "total": 763,
+    "updatedAt": "2026-09-06T03:35:02Z",
+    "total": 764,
     "data": [
         {
             "code": "00162420",
@@ -1989,6 +1989,37 @@
         {
             "code": "12691300",
             "price": 35999,
+            "old_price": null,
+            "availability": true,
+            "stock": 10,
+            "warehouses": null,
+            "warranty_type": "manufacturer",
+            "warranty_period": 12,
+            "max_pay_in_parts": 12,
+            "delivery_methods": [
+                {
+                    "method": "nova-post:branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:cargo_branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:postomat",
+                    "price": 0
+                },
+                {
+                    "method": "courier:nova-post",
+                    "price": 0
+                }
+            ],
+            "days_to_dispatch": 1,
+            "manufacture": null
+        },
+        {
+            "code": "12692100",
+            "price": 12999,
             "old_price": null,
             "availability": true,
             "stock": 10,
