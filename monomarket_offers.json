@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-09-28T22:27:19Z",
-    "total": 694,
+    "updatedAt": "2026-09-29T02:13:47Z",
+    "total": 693,
     "data": [
         {
             "code": "00162420",
@@ -1088,6 +1088,37 @@
             "manufacture": null
         },
         {
+            "code": "11805800",
+            "price": 13999,
+            "old_price": null,
+            "availability": true,
+            "stock": 10,
+            "warehouses": null,
+            "warranty_type": "manufacturer",
+            "warranty_period": 12,
+            "max_pay_in_parts": 12,
+            "delivery_methods": [
+                {
+                    "method": "nova-post:branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:cargo_branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:postomat",
+                    "price": 0
+                },
+                {
+                    "method": "courier:nova-post",
+                    "price": 0
+                }
+            ],
+            "days_to_dispatch": 1,
+            "manufacture": null
+        },
+        {
             "code": "11870110",
             "price": 53899,
             "old_price": null,
@@ -1150,8 +1181,8 @@
             "manufacture": null
         },
         {
-            "code": "11952520",
-            "price": 19999,
+            "code": "11980310",
+            "price": 5999,
             "old_price": null,
             "availability": true,
             "stock": 10,
@@ -1181,8 +1212,8 @@
             "manufacture": null
         },
         {
-            "code": "11980310",
-            "price": 5999,
+            "code": "11980510",
+            "price": 6499,
             "old_price": null,
             "availability": true,
             "stock": 10,
@@ -2175,68 +2206,6 @@
         {
             "code": "13679340",
             "price": 0,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "13786000",
-            "price": 9799,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "13786100",
-            "price": 11999,
             "old_price": null,
             "availability": true,
             "stock": 10,
@@ -3291,6 +3260,37 @@
         {
             "code": "14456200",
             "price": 6999,
+            "old_price": null,
+            "availability": true,
+            "stock": 10,
+            "warehouses": null,
+            "warranty_type": "manufacturer",
+            "warranty_period": 12,
+            "max_pay_in_parts": 12,
+            "delivery_methods": [
+                {
+                    "method": "nova-post:branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:cargo_branch",
+                    "price": 0
+                },
+                {
+                    "method": "nova-post:postomat",
+                    "price": 0
+                },
+                {
+                    "method": "courier:nova-post",
+                    "price": 0
+                }
+            ],
+            "days_to_dispatch": 1,
+            "manufacture": null
+        },
+        {
+            "code": "15126000",
+            "price": 7999,
             "old_price": null,
             "availability": true,
             "stock": 10,
@@ -5616,37 +5616,6 @@
         {
             "code": "16763560",
             "price": 8799,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "16794220",
-            "price": 9999,
             "old_price": null,
             "availability": true,
             "stock": 10,
