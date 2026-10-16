@@ -1,6 +1,6 @@
 {
-    "updatedAt": "2026-10-15T23:45:13Z",
-    "total": 662,
+    "updatedAt": "2026-10-16T03:42:00Z",
+    "total": 660,
     "data": [
         {
             "code": "00162420",
@@ -3818,37 +3818,6 @@
         {
             "code": "15171300",
             "price": 35999,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "15171310",
-            "price": 38999,
             "old_price": null,
             "availability": true,
             "stock": 10,
@@ -19442,37 +19411,6 @@
         {
             "code": "92120230",
             "price": 20000,
-            "old_price": null,
-            "availability": true,
-            "stock": 10,
-            "warehouses": null,
-            "warranty_type": "manufacturer",
-            "warranty_period": 12,
-            "max_pay_in_parts": 12,
-            "delivery_methods": [
-                {
-                    "method": "nova-post:branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:cargo_branch",
-                    "price": 0
-                },
-                {
-                    "method": "nova-post:postomat",
-                    "price": 0
-                },
-                {
-                    "method": "courier:nova-post",
-                    "price": 0
-                }
-            ],
-            "days_to_dispatch": 1,
-            "manufacture": null
-        },
-        {
-            "code": "92120240",
-            "price": 7330,
             "old_price": null,
             "availability": true,
             "stock": 10,
